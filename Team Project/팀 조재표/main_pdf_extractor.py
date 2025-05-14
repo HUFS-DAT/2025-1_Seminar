@@ -28,11 +28,6 @@ output_folder = os.path.join(
 os.makedirs(output_folder, exist_ok=True)
 
 
-# 텍스트와 주석 저장할 파일 경로
-text_output_path = os.path.join(output_folder, "page_text.txt")
-# annot_output_path = os.path.join(output_folder, "page_annotations.txt")
-
-
 # 이미지 저장
 for page_num in range(len(doc)):
     page = doc.load_page(page_num)
@@ -137,7 +132,7 @@ messages = [
 prompt_template = ChatPromptTemplate.from_messages(messages)
 prompt = prompt_template.invoke({"text": text})
 #디폴트로 model변수의 AI 모델을 쓰는거임?
-text = llm.invoke(prompt)
+text_llm_modify = llm.invoke(prompt)
 
 
 
@@ -146,8 +141,18 @@ text = llm.invoke(prompt)
 
 
 
+# 텍스트와 주석 저장할 파일 경로
+text_output_path = os.path.join(output_folder, "pageAll_text.txt")
+# annot_output_path = os.path.join(output_folder, "page_annotations.txt")
+
+
 # 텍스트 저장
 with open(text_output_path, "w", encoding="utf-8") as f:
     f.write(text)
-    print(f"[✔] 텍스트 저장됨: {text_output_path}")
+    print(f"[✔] 전체페이지 텍스트 저장됨: {text_output_path}")
 
+# 오타 교정된 텍스트 저장
+corrected_output_path = os.path.join(output_folder, "pageAll_text_llm_modify.txt")  # 원하는 경로/파일명으로 수정 가능
+with open(corrected_output_path, "w", encoding="utf-8") as f:
+    f.write(text_llm_modify)
+    print(f"[✔] 전체페이지 오타 교정된 텍스트 저장됨: {corrected_output_path}")
