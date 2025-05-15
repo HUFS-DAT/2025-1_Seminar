@@ -13,7 +13,7 @@ from langchain_openai import OpenAIEmbeddings
 
 # Define the directory containing the text file
 current_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(current_dir, "추출", "pageAll_text_llm_modify.txt")#파일은 로미오와출리엣
+file_path = os.path.join(current_dir, "추출", "pageAll_text_llm_modify.txt")#파일
 db_dir = os.path.join(current_dir, "db")#벡터저장공간이 될곳
 
 # Check if the text file exists
