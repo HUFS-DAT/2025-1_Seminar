@@ -46,7 +46,6 @@ async def generate_quiz(quiz_type: str, topic: str, config: dict):
     # except json.JSONDecodeError:
     #     print("JSON parsing error:", response_content)
     #     raise ValueError("OpenAI response format error")
-
     #options 생성 (변경 전 - MCQ만 고려)
     # options = []
     # for key, value in parsed_response.items():
@@ -87,7 +86,6 @@ async def generate_quiz(quiz_type: str, topic: str, config: dict):
         options=options,
         answer=parsed_response["correct_answer"]
     )
-
     return quiz_response
 
 def validate_json(response_content: str):

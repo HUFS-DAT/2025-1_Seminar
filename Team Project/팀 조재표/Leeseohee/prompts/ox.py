@@ -1,6 +1,7 @@
 from schemas import OXPromptConfig
 import random
 
+
 def generate_ox_prompt(topic: str, config: OXPromptConfig) -> str:
     """
     Generates a structured OX prompt.
@@ -32,5 +33,3 @@ def generate_ox_prompt(topic: str, config: OXPromptConfig) -> str:
     - Ensure the correct answer matches the label provided.
     - Do not include any text before or after the JSON object.
     """
-
-

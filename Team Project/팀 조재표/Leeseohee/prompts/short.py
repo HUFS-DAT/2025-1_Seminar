@@ -27,4 +27,3 @@ def generate_short_prompt(topic: str, config: ShortPromptConfig) -> str:
     - Ensure the answer is brief and concise.
     - Do not include any text before or after the JSON object.
     """
-

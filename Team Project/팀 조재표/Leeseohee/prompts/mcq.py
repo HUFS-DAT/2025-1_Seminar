@@ -35,4 +35,3 @@ def generate_mcq_prompt(topic: str, config: MCQPromptConfig) -> str:
     - 3 distractors must be clearly incorrect but plausible.
     - Labels (A/B/C/D) must strictly match the options.
     """
-

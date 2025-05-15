@@ -173,3 +173,11 @@ cython_debug/
 # ignore .ipynb_checkpoint
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
