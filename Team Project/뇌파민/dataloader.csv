@@ -1,0 +1,860 @@
+stim_files,subject_id,task,run_folder,frame_count,run_path,text_frame,text_path,age,sex,split,ground_truth
+tunnel,sub-001,tunnel,sub-001_task-tunnel_bold,51,./fmri_pooled_features/sub-001/tunnel/sub-001_task-tunnel_bold,51,./text_feature/tunnel,23,F,train,19
+pieman,sub-001,pieman,sub-001_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-001/pieman/sub-001_task-pieman_run-2_bold,14,./text_feature/pieman,22,F,train,all
+pieman,sub-001,pieman,sub-001_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-001/pieman/sub-001_task-pieman_run-1_bold,14,./text_feature/pieman,22,F,train,all
+pieman,sub-002,pieman,sub-002_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-002/pieman/sub-002_task-pieman_run-1_bold,14,./text_feature/pieman,20,M,train,all
+pieman,sub-002,pieman,sub-002_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-002/pieman/sub-002_task-pieman_run-2_bold,14,./text_feature/pieman,20,M,train,all
+pieman,sub-003,pieman,sub-003_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-003/pieman/sub-003_task-pieman_run-1_bold,14,./text_feature/pieman,25,F,train,all
+pieman,sub-003,pieman,sub-003_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-003/pieman/sub-003_task-pieman_run-2_bold,14,./text_feature/pieman,25,F,train,all
+tunnel,sub-004,tunnel,sub-004_task-tunnel_bold,51,./fmri_pooled_features/sub-004/tunnel/sub-004_task-tunnel_bold,51,./text_feature/tunnel,24,M,train,19
+pieman,sub-004,pieman,sub-004_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-004/pieman/sub-004_task-pieman_run-1_bold,14,./text_feature/pieman,24,M,train,all
+pieman,sub-004,pieman,sub-004_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-004/pieman/sub-004_task-pieman_run-2_bold,14,./text_feature/pieman,24,M,train,all
+tunnel,sub-005,tunnel,sub-005_task-tunnel_bold,51,./fmri_pooled_features/sub-005/tunnel/sub-005_task-tunnel_bold,51,./text_feature/tunnel,25,M,train,19
+pieman,sub-005,pieman,sub-005_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-005/pieman/sub-005_task-pieman_run-2_bold,14,./text_feature/pieman,25,M,train,all
+pieman,sub-005,pieman,sub-005_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-005/pieman/sub-005_task-pieman_run-1_bold,14,./text_feature/pieman,25,M,train,all
+pieman,sub-006,pieman,sub-006_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-006/pieman/sub-006_task-pieman_run-1_bold,14,./text_feature/pieman,21,F,train,all
+pieman,sub-006,pieman,sub-006_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-006/pieman/sub-006_task-pieman_run-2_bold,14,./text_feature/pieman,21,F,train,all
+pieman,sub-007,pieman,sub-007_task-pieman_bold,14,./fmri_pooled_features/sub-007/pieman/sub-007_task-pieman_bold,14,./text_feature/pieman,45,M,train,all
+pieman,sub-008,pieman,sub-008_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-008/pieman/sub-008_task-pieman_run-1_bold,14,./text_feature/pieman,25,M,train,all
+pieman,sub-008,pieman,sub-008_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-008/pieman/sub-008_task-pieman_run-2_bold,14,./text_feature/pieman,25,M,train,all
+pieman,sub-009,pieman,sub-009_task-pieman_bold,14,./fmri_pooled_features/sub-009/pieman/sub-009_task-pieman_bold,14,./text_feature/pieman,19,M,train,all
+pieman,sub-010,pieman,sub-010_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-010/pieman/sub-010_task-pieman_run-1_bold,14,./text_feature/pieman,20,F,train,all
+pieman,sub-010,pieman,sub-010_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-010/pieman/sub-010_task-pieman_run-2_bold,14,./text_feature/pieman,20,F,train,all
+pieman,sub-011,pieman,sub-011_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-011/pieman/sub-011_task-pieman_run-2_bold,14,./text_feature/pieman,20,F,train,all
+pieman,sub-011,pieman,sub-011_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-011/pieman/sub-011_task-pieman_run-1_bold,14,./text_feature/pieman,20,F,train,all
+pieman,sub-012,pieman,sub-012_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-012/pieman/sub-012_task-pieman_run-1_bold,14,./text_feature/pieman,28,F,train,all
+pieman,sub-012,pieman,sub-012_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-012/pieman/sub-012_task-pieman_run-2_bold,14,./text_feature/pieman,28,F,train,all
+tunnel,sub-013,tunnel,sub-013_task-tunnel_bold,51,./fmri_pooled_features/sub-013/tunnel/sub-013_task-tunnel_bold,51,./text_feature/tunnel,21,F,train,19
+pieman,sub-013,pieman,sub-013_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-013/pieman/sub-013_task-pieman_run-1_bold,14,./text_feature/pieman,21,F,train,all
+pieman,sub-013,pieman,sub-013_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-013/pieman/sub-013_task-pieman_run-2_bold,14,./text_feature/pieman,21,F,train,all
+pieman,sub-014,pieman,sub-014_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-014/pieman/sub-014_task-pieman_run-1_bold,14,./text_feature/pieman,21,M,train,all
+pieman,sub-014,pieman,sub-014_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-014/pieman/sub-014_task-pieman_run-2_bold,14,./text_feature/pieman,21,M,train,all
+pieman,sub-015,pieman,sub-015_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-015/pieman/sub-015_task-pieman_run-2_bold,14,./text_feature/pieman,20,M,train,all
+pieman,sub-015,pieman,sub-015_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-015/pieman/sub-015_task-pieman_run-1_bold,14,./text_feature/pieman,20,M,train,all
+notthefallshortscram,sub-016,notthefallshortscram,sub-016_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-016/notthefallshortscram/sub-016_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,20,F,test,15
+pieman,sub-016,pieman,sub-016_task-pieman_run-1_bold,14,./fmri_pooled_features/sub-016/pieman/sub-016_task-pieman_run-1_bold,14,./text_feature/pieman,20,F,train,all
+pieman,sub-016,pieman,sub-016_task-pieman_run-2_bold,14,./fmri_pooled_features/sub-016/pieman/sub-016_task-pieman_run-2_bold,14,./text_feature/pieman,20,F,train,all
+notthefallintact,sub-016,notthefallintact,sub-016_task-notthefallintact_bold,18,./fmri_pooled_features/sub-016/notthefallintact/sub-016_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,F,test,15
+slumlordreach,sub-016,slumlordreach,sub-016_task-slumlordreach_bold,57,./fmri_pooled_features/sub-016/slumlordreach/sub-016_task-slumlordreach_bold,57,./text_feature/slumlordreach,20,F,train,19
+pieman,sub-017,pieman,sub-017_task-pieman_bold,14,./fmri_pooled_features/sub-017/pieman/sub-017_task-pieman_bold,14,./text_feature/pieman,24,M,train,all
+pieman,sub-018,pieman,sub-018_task-pieman_bold,14,./fmri_pooled_features/sub-018/pieman/sub-018_task-pieman_bold,14,./text_feature/pieman,20,F,train,all
+pieman,sub-019,pieman,sub-019_task-pieman_bold,14,./fmri_pooled_features/sub-019/pieman/sub-019_task-pieman_bold,14,./text_feature/pieman,22,M,train,all
+pieman,sub-020,pieman,sub-020_task-pieman_bold,14,./fmri_pooled_features/sub-020/pieman/sub-020_task-pieman_bold,14,./text_feature/pieman,22,F,train,all
+pieman,sub-021,pieman,sub-021_task-pieman_bold,14,./fmri_pooled_features/sub-021/pieman/sub-021_task-pieman_bold,14,./text_feature/pieman,18,F,train,all
+tunnel,sub-022,tunnel,sub-022_task-tunnel_bold,51,./fmri_pooled_features/sub-022/tunnel/sub-022_task-tunnel_bold,51,./text_feature/tunnel,18,F,train,19
+pieman,sub-022,pieman,sub-022_task-pieman_bold,14,./fmri_pooled_features/sub-022/pieman/sub-022_task-pieman_bold,14,./text_feature/pieman,18,F,train,all
+lucy,sub-022,lucy,sub-022_task-lucy_bold,18,./fmri_pooled_features/sub-022/lucy/sub-022_task-lucy_bold,18,./text_feature/lucy,18,F,val,15
+prettymouth,sub-023,prettymouth,sub-023_task-prettymouth_bold,22,./fmri_pooled_features/sub-023/prettymouth/sub-023_task-prettymouth_bold,22,./text_feature/prettymouth,28,F,train,19
+pieman,sub-023,pieman,sub-023_task-pieman_bold,14,./fmri_pooled_features/sub-023/pieman/sub-023_task-pieman_bold,14,./text_feature/pieman,27,F,train,all
+milkywayvodka,sub-023,milkyway,sub-023_task-milkyway_bold,13,./fmri_pooled_features/sub-023/milkyway/sub-023_task-milkyway_bold,13,./text_feature/milkywayvodka,28,F,train,15
+pieman,sub-024,pieman,sub-024_task-pieman_bold,14,./fmri_pooled_features/sub-024/pieman/sub-024_task-pieman_bold,14,./text_feature/pieman,19,F,train,all
+tunnel,sub-025,tunnel,sub-025_task-tunnel_bold,51,./fmri_pooled_features/sub-025/tunnel/sub-025_task-tunnel_bold,51,./text_feature/tunnel,25,M,train,19
+pieman,sub-025,pieman,sub-025_task-pieman_bold,14,./fmri_pooled_features/sub-025/pieman/sub-025_task-pieman_bold,14,./text_feature/pieman,25,M,train,all
+tunnel,sub-026,tunnel,sub-026_task-tunnel_bold,51,./fmri_pooled_features/sub-026/tunnel/sub-026_task-tunnel_bold,51,./text_feature/tunnel,31,M,train,19
+pieman,sub-026,pieman,sub-026_task-pieman_bold,14,./fmri_pooled_features/sub-026/pieman/sub-026_task-pieman_bold,14,./text_feature/pieman,31,M,train,all
+lucy,sub-026,lucy,sub-026_task-lucy_bold,18,./fmri_pooled_features/sub-026/lucy/sub-026_task-lucy_bold,18,./text_feature/lucy,31,M,val,15
+pieman,sub-027,pieman,sub-027_task-pieman_bold,14,./fmri_pooled_features/sub-027/pieman/sub-027_task-pieman_bold,14,./text_feature/pieman,24,F,train,all
+pieman,sub-028,pieman,sub-028_task-pieman_bold,14,./fmri_pooled_features/sub-028/pieman/sub-028_task-pieman_bold,14,./text_feature/pieman,29,M,train,all
+pieman,sub-029,pieman,sub-029_task-pieman_bold,14,./fmri_pooled_features/sub-029/pieman/sub-029_task-pieman_bold,14,./text_feature/pieman,18,M,train,all
+prettymouth,sub-030,prettymouth,sub-030_task-prettymouth_bold,22,./fmri_pooled_features/sub-030/prettymouth/sub-030_task-prettymouth_bold,22,./text_feature/prettymouth,21,F,train,19
+pieman,sub-030,pieman,sub-030_task-pieman_bold,14,./fmri_pooled_features/sub-030/pieman/sub-030_task-pieman_bold,14,./text_feature/pieman,20,F,train,all
+milkywayvodka,sub-030,milkyway,sub-030_task-milkyway_bold,13,./fmri_pooled_features/sub-030/milkyway/sub-030_task-milkyway_bold,13,./text_feature/milkywayvodka,21,F,train,15
+pieman,sub-031,pieman,sub-031_task-pieman_bold,14,./fmri_pooled_features/sub-031/pieman/sub-031_task-pieman_bold,14,./text_feature/pieman,29,F,train,all
+prettymouth,sub-032,prettymouth,sub-032_task-prettymouth_bold,22,./fmri_pooled_features/sub-032/prettymouth/sub-032_task-prettymouth_bold,22,./text_feature/prettymouth,22,M,train,19
+pieman,sub-032,pieman,sub-032_task-pieman_bold,14,./fmri_pooled_features/sub-032/pieman/sub-032_task-pieman_bold,14,./text_feature/pieman,21,M,train,all
+milkywayvodka,sub-032,milkyway,sub-032_task-milkyway_bold,13,./fmri_pooled_features/sub-032/milkyway/sub-032_task-milkyway_bold,13,./text_feature/milkywayvodka,22,M,train,15
+pieman,sub-033,pieman,sub-033_task-pieman_bold,14,./fmri_pooled_features/sub-033/pieman/sub-033_task-pieman_bold,14,./text_feature/pieman,18,M,train,all
+prettymouth,sub-034,prettymouth,sub-034_task-prettymouth_bold,22,./fmri_pooled_features/sub-034/prettymouth/sub-034_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+pieman,sub-034,pieman,sub-034_task-pieman_bold,14,./fmri_pooled_features/sub-034/pieman/sub-034_task-pieman_bold,14,./text_feature/pieman,18,M,train,all
+notthefallintact,sub-034,notthefallintact,sub-034_task-notthefallintact_bold,18,./fmri_pooled_features/sub-034/notthefallintact/sub-034_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,M,test,15
+milkywayoriginal,sub-034,milkyway,sub-034_task-milkyway_bold,13,./fmri_pooled_features/sub-034/milkyway/sub-034_task-milkyway_bold,13,./text_feature/milkywayoriginal,19,M,train,15
+notthefalllongscram,sub-034,notthefalllongscram,sub-034_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-034/notthefalllongscram/sub-034_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,19,M,test,15
+pieman,sub-035,pieman,sub-035_task-pieman_bold,14,./fmri_pooled_features/sub-035/pieman/sub-035_task-pieman_bold,14,./text_feature/pieman,21,F,train,all
+pieman,sub-036,pieman,sub-036_task-pieman_bold,14,./fmri_pooled_features/sub-036/pieman/sub-036_task-pieman_bold,14,./text_feature/pieman,19,F,train,all
+pieman,sub-037,pieman,sub-037_task-pieman_bold,14,./fmri_pooled_features/sub-037/pieman/sub-037_task-pieman_bold,14,./text_feature/pieman,21,M,train,all
+prettymouth,sub-038,prettymouth,sub-038_task-prettymouth_bold,22,./fmri_pooled_features/sub-038/prettymouth/sub-038_task-prettymouth_bold,22,./text_feature/prettymouth,34,F,train,19
+pieman,sub-038,pieman,sub-038_task-pieman_bold,14,./fmri_pooled_features/sub-038/pieman/sub-038_task-pieman_bold,14,./text_feature/pieman,33,F,train,all
+milkywayvodka,sub-038,milkyway,sub-038_task-milkyway_bold,13,./fmri_pooled_features/sub-038/milkyway/sub-038_task-milkyway_bold,13,./text_feature/milkywayvodka,34,F,train,15
+pieman,sub-039,pieman,sub-039_task-pieman_bold,14,./fmri_pooled_features/sub-039/pieman/sub-039_task-pieman_bold,14,./text_feature/pieman,31,F,train,all
+pieman,sub-040,pieman,sub-040_task-pieman_bold,14,./fmri_pooled_features/sub-040/pieman/sub-040_task-pieman_bold,14,./text_feature/pieman,31,F,train,all
+tunnel,sub-041,tunnel,sub-041_task-tunnel_bold,51,./fmri_pooled_features/sub-041/tunnel/sub-041_task-tunnel_bold,51,./text_feature/tunnel,22,M,train,19
+pieman,sub-041,pieman,sub-041_task-pieman_bold,14,./fmri_pooled_features/sub-041/pieman/sub-041_task-pieman_bold,14,./text_feature/pieman,21,M,train,all
+lucy,sub-041,lucy,sub-041_task-lucy_bold,18,./fmri_pooled_features/sub-041/lucy/sub-041_task-lucy_bold,18,./text_feature/lucy,22,M,val,15
+pieman,sub-042,pieman,sub-042_task-pieman_bold,14,./fmri_pooled_features/sub-042/pieman/sub-042_task-pieman_bold,14,./text_feature/pieman,19,M,train,all
+pieman,sub-043,pieman,sub-043_task-pieman_bold,14,./fmri_pooled_features/sub-043/pieman/sub-043_task-pieman_bold,14,./text_feature/pieman,18,F,train,all
+pieman,sub-044,pieman,sub-044_task-pieman_bold,14,./fmri_pooled_features/sub-044/pieman/sub-044_task-pieman_bold,14,./text_feature/pieman,29,M,train,all
+pieman,sub-045,pieman,sub-045_task-pieman_bold,14,./fmri_pooled_features/sub-045/pieman/sub-045_task-pieman_bold,14,./text_feature/pieman,24,F,train,all
+pieman,sub-046,pieman,sub-046_task-pieman_bold,14,./fmri_pooled_features/sub-046/pieman/sub-046_task-pieman_bold,14,./text_feature/pieman,19,F,train,all
+pieman,sub-047,pieman,sub-047_task-pieman_bold,14,./fmri_pooled_features/sub-047/pieman/sub-047_task-pieman_bold,14,./text_feature/pieman,26,F,train,all
+pieman,sub-048,pieman,sub-048_task-pieman_bold,14,./fmri_pooled_features/sub-048/pieman/sub-048_task-pieman_bold,14,./text_feature/pieman,27,F,train,all
+shapesphysical,sub-049,shapesphysical,sub-049_task-shapesphysical_bold,13,./fmri_pooled_features/sub-049/shapesphysical/sub-049_task-shapesphysical_bold,13,./text_feature/shapesphysical,27,F,val,all
+"himym,santa",sub-049,schema,sub-049_task-schema_run-2_bold,10,./fmri_pooled_features/sub-049/schema/sub-049_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",26,F,train,15
+"shame,seinfeld",sub-049,schema,sub-049_task-schema_run-3_bold,10,./fmri_pooled_features/sub-049/schema/sub-049_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",26,F,train,15
+"vinny,upintheair",sub-049,schema,sub-049_task-schema_run-4_bold,11,./fmri_pooled_features/sub-049/schema/sub-049_task-schema_run-4_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",26,F,train,15
+"friends,bigbang",sub-049,schema,sub-049_task-schema_run-1_bold,10,./fmri_pooled_features/sub-049/schema/sub-049_task-schema_run-1_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",26,F,train,15
+shapessocial,sub-049,shapessocial,sub-049_task-shapessocial_bold,13,./fmri_pooled_features/sub-049/shapessocial/sub-049_task-shapessocial_bold,13,./text_feature/shapessocial,27,F,val,all
+pieman,sub-049,pieman,sub-049_task-pieman_bold,14,./fmri_pooled_features/sub-049/pieman/sub-049_task-pieman_bold,14,./text_feature/pieman,24,F,train,all
+prettymouth,sub-050,prettymouth,sub-050_task-prettymouth_bold,22,./fmri_pooled_features/sub-050/prettymouth/sub-050_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+pieman,sub-050,pieman,sub-050_task-pieman_bold,14,./fmri_pooled_features/sub-050/pieman/sub-050_task-pieman_bold,14,./text_feature/pieman,19,M,train,all
+pieman,sub-051,pieman,sub-051_task-pieman_bold,14,./fmri_pooled_features/sub-051/pieman/sub-051_task-pieman_bold,14,./text_feature/pieman,21,F,train,all
+tunnel,sub-052,tunnel,sub-052_task-tunnel_bold,51,./fmri_pooled_features/sub-052/tunnel/sub-052_task-tunnel_bold,51,./text_feature/tunnel,20,F,train,19
+prettymouth,sub-052,prettymouth,sub-052_task-prettymouth_bold,22,./fmri_pooled_features/sub-052/prettymouth/sub-052_task-prettymouth_bold,22,./text_feature/prettymouth,21,F,train,19
+pieman,sub-052,pieman,sub-052_task-pieman_bold,14,./fmri_pooled_features/sub-052/pieman/sub-052_task-pieman_bold,14,./text_feature/pieman,20,F,train,all
+lucy,sub-052,lucy,sub-052_task-lucy_bold,18,./fmri_pooled_features/sub-052/lucy/sub-052_task-lucy_bold,18,./text_feature/lucy,20,F,val,15
+milkywayvodka,sub-052,milkyway,sub-052_task-milkyway_bold,13,./fmri_pooled_features/sub-052/milkyway/sub-052_task-milkyway_bold,13,./text_feature/milkywayvodka,21,F,train,15
+tunnel,sub-053,tunnel,sub-053_task-tunnel_bold,51,./fmri_pooled_features/sub-053/tunnel/sub-053_task-tunnel_bold,51,./text_feature/tunnel,19,M,train,19
+pieman,sub-053,pieman,sub-053_task-pieman_bold,14,./fmri_pooled_features/sub-053/pieman/sub-053_task-pieman_bold,14,./text_feature/pieman,19,M,train,all
+lucy,sub-053,lucy,sub-053_task-lucy_bold,18,./fmri_pooled_features/sub-053/lucy/sub-053_task-lucy_bold,18,./text_feature/lucy,19,M,val,15
+pieman,sub-054,pieman,sub-054_task-pieman_bold,14,./fmri_pooled_features/sub-054/pieman/sub-054_task-pieman_bold,14,./text_feature/pieman,25,M,train,all
+tunnel,sub-055,tunnel,sub-055_task-tunnel_bold,51,./fmri_pooled_features/sub-055/tunnel/sub-055_task-tunnel_bold,51,./text_feature/tunnel,28,F,train,19
+pieman,sub-055,pieman,sub-055_task-pieman_bold,14,./fmri_pooled_features/sub-055/pieman/sub-055_task-pieman_bold,14,./text_feature/pieman,28,F,train,all
+lucy,sub-055,lucy,sub-055_task-lucy_bold,18,./fmri_pooled_features/sub-055/lucy/sub-055_task-lucy_bold,18,./text_feature/lucy,28,F,val,15
+tunnel,sub-056,tunnel,sub-056_task-tunnel_bold,51,./fmri_pooled_features/sub-056/tunnel/sub-056_task-tunnel_bold,51,./text_feature/tunnel,21,F,train,19
+pieman,sub-056,pieman,sub-056_task-pieman_bold,14,./fmri_pooled_features/sub-056/pieman/sub-056_task-pieman_bold,14,./text_feature/pieman,21,F,train,all
+lucy,sub-056,lucy,sub-056_task-lucy_bold,18,./fmri_pooled_features/sub-056/lucy/sub-056_task-lucy_bold,18,./text_feature/lucy,21,F,val,15
+tunnel,sub-057,tunnel,sub-057_task-tunnel_bold,51,./fmri_pooled_features/sub-057/tunnel/sub-057_task-tunnel_bold,51,./text_feature/tunnel,18,F,train,19
+pieman,sub-057,pieman,sub-057_task-pieman_bold,14,./fmri_pooled_features/sub-057/pieman/sub-057_task-pieman_bold,14,./text_feature/pieman,18,F,train,all
+tunnel,sub-058,tunnel,sub-058_task-tunnel_bold,51,./fmri_pooled_features/sub-058/tunnel/sub-058_task-tunnel_bold,51,./text_feature/tunnel,28,F,train,19
+shapesphysical,sub-058,shapesphysical,sub-058_task-shapesphysical_bold,13,./fmri_pooled_features/sub-058/shapesphysical/sub-058_task-shapesphysical_bold,13,./text_feature/shapesphysical,31,F,val,all
+shapessocial,sub-058,shapessocial,sub-058_task-shapessocial_bold,13,./fmri_pooled_features/sub-058/shapessocial/sub-058_task-shapessocial_bold,13,./text_feature/shapessocial,31,F,val,all
+pieman,sub-058,pieman,sub-058_task-pieman_bold,14,./fmri_pooled_features/sub-058/pieman/sub-058_task-pieman_bold,14,./text_feature/pieman,28,F,train,all
+lucy,sub-058,lucy,sub-058_task-lucy_bold,18,./fmri_pooled_features/sub-058/lucy/sub-058_task-lucy_bold,18,./text_feature/lucy,28,F,val,15
+tunnel,sub-059,tunnel,sub-059_task-tunnel_bold,51,./fmri_pooled_features/sub-059/tunnel/sub-059_task-tunnel_bold,51,./text_feature/tunnel,18,M,train,19
+pieman,sub-059,pieman,sub-059_task-pieman_bold,14,./fmri_pooled_features/sub-059/pieman/sub-059_task-pieman_bold,14,./text_feature/pieman,18,M,train,all
+lucy,sub-059,lucy,sub-059_task-lucy_bold,18,./fmri_pooled_features/sub-059/lucy/sub-059_task-lucy_bold,18,./text_feature/lucy,18,M,val,15
+tunnel,sub-060,tunnel,sub-060_task-tunnel_bold,51,./fmri_pooled_features/sub-060/tunnel/sub-060_task-tunnel_bold,51,./text_feature/tunnel,18,F,train,19
+pieman,sub-060,pieman,sub-060_task-pieman_bold,14,./fmri_pooled_features/sub-060/pieman/sub-060_task-pieman_bold,14,./text_feature/pieman,18,F,train,all
+lucy,sub-060,lucy,sub-060_task-lucy_bold,18,./fmri_pooled_features/sub-060/lucy/sub-060_task-lucy_bold,18,./text_feature/lucy,18,F,val,15
+tunnel,sub-061,tunnel,sub-061_task-tunnel_bold,51,./fmri_pooled_features/sub-061/tunnel/sub-061_task-tunnel_bold,51,./text_feature/tunnel,23,F,train,19
+pieman,sub-061,pieman,sub-061_task-pieman_bold,14,./fmri_pooled_features/sub-061/pieman/sub-061_task-pieman_bold,14,./text_feature/pieman,23,F,train,all
+lucy,sub-061,lucy,sub-061_task-lucy_bold,18,./fmri_pooled_features/sub-061/lucy/sub-061_task-lucy_bold,18,./text_feature/lucy,23,F,val,15
+tunnel,sub-062,tunnel,sub-062_task-tunnel_bold,51,./fmri_pooled_features/sub-062/tunnel/sub-062_task-tunnel_bold,51,./text_feature/tunnel,24,F,train,19
+pieman,sub-062,pieman,sub-062_task-pieman_bold,14,./fmri_pooled_features/sub-062/pieman/sub-062_task-pieman_bold,14,./text_feature/pieman,24,F,train,all
+tunnel,sub-063,tunnel,sub-063_task-tunnel_bold,51,./fmri_pooled_features/sub-063/tunnel/sub-063_task-tunnel_bold,51,./text_feature/tunnel,19,M,train,19
+pieman,sub-063,pieman,sub-063_task-pieman_bold,14,./fmri_pooled_features/sub-063/pieman/sub-063_task-pieman_bold,14,./text_feature/pieman,19,M,train,all
+tunnel,sub-064,tunnel,sub-064_task-tunnel_bold,51,./fmri_pooled_features/sub-064/tunnel/sub-064_task-tunnel_bold,51,./text_feature/tunnel,18,F,train,19
+pieman,sub-064,pieman,sub-064_task-pieman_bold,14,./fmri_pooled_features/sub-064/pieman/sub-064_task-pieman_bold,14,./text_feature/pieman,18,F,train,all
+tunnel,sub-065,tunnel,sub-065_task-tunnel_bold,51,./fmri_pooled_features/sub-065/tunnel/sub-065_task-tunnel_bold,51,./text_feature/tunnel,24,F,train,19
+prettymouth,sub-065,prettymouth,sub-065_task-prettymouth_bold,22,./fmri_pooled_features/sub-065/prettymouth/sub-065_task-prettymouth_bold,22,./text_feature/prettymouth,24,F,train,19
+notthefallshortscram,sub-065,notthefallshortscram,sub-065_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-065/notthefallshortscram/sub-065_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,25,F,test,15
+pieman,sub-065,pieman,sub-065_task-pieman_bold,14,./fmri_pooled_features/sub-065/pieman/sub-065_task-pieman_bold,14,./text_feature/pieman,24,F,train,all
+lucy,sub-065,lucy,sub-065_task-lucy_bold,18,./fmri_pooled_features/sub-065/lucy/sub-065_task-lucy_bold,18,./text_feature/lucy,24,F,val,15
+notthefallintact,sub-065,notthefallintact,sub-065_task-notthefallintact_bold,18,./fmri_pooled_features/sub-065/notthefallintact/sub-065_task-notthefallintact_bold,18,./text_feature/notthefallintact,25,F,test,15
+tunnel,sub-066,tunnel,sub-066_task-tunnel_bold,51,./fmri_pooled_features/sub-066/tunnel/sub-066_task-tunnel_bold,51,./text_feature/tunnel,22,M,train,19
+prettymouth,sub-066,prettymouth,sub-066_task-prettymouth_bold,22,./fmri_pooled_features/sub-066/prettymouth/sub-066_task-prettymouth_bold,22,./text_feature/prettymouth,22,M,train,19
+pieman,sub-066,pieman,sub-066_task-pieman_bold,14,./fmri_pooled_features/sub-066/pieman/sub-066_task-pieman_bold,14,./text_feature/pieman,22,M,train,all
+lucy,sub-066,lucy,sub-066_task-lucy_bold,18,./fmri_pooled_features/sub-066/lucy/sub-066_task-lucy_bold,18,./text_feature/lucy,22,M,val,15
+notthefallintact,sub-066,notthefallintact,sub-066_task-notthefallintact_bold,18,./fmri_pooled_features/sub-066/notthefallintact/sub-066_task-notthefallintact_bold,18,./text_feature/notthefallintact,23,M,test,15
+notthefalllongscram,sub-066,notthefalllongscram,sub-066_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-066/notthefalllongscram/sub-066_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,23,M,test,15
+pieman,sub-067,pieman,sub-067_task-pieman_bold,14,./fmri_pooled_features/sub-067/pieman/sub-067_task-pieman_bold,14,./text_feature/pieman,20,F,train,all
+pieman,sub-068,pieman,sub-068_task-pieman_bold,14,./fmri_pooled_features/sub-068/pieman/sub-068_task-pieman_bold,14,./text_feature/pieman,25,F,train,all
+tunnel,sub-069,tunnel,sub-069_task-tunnel_bold,51,./fmri_pooled_features/sub-069/tunnel/sub-069_task-tunnel_bold,51,./text_feature/tunnel,21,F,train,19
+pieman,sub-069,pieman,sub-069_task-pieman_bold,14,./fmri_pooled_features/sub-069/pieman/sub-069_task-pieman_bold,14,./text_feature/pieman,21,F,train,all
+lucy,sub-069,lucy,sub-069_task-lucy_bold,18,./fmri_pooled_features/sub-069/lucy/sub-069_task-lucy_bold,18,./text_feature/lucy,21,F,val,15
+pieman,sub-070,pieman,sub-070_task-pieman_bold,14,./fmri_pooled_features/sub-070/pieman/sub-070_task-pieman_bold,14,./text_feature/pieman,20,M,train,all
+pieman,sub-071,pieman,sub-071_task-pieman_bold,14,./fmri_pooled_features/sub-071/pieman/sub-071_task-pieman_bold,14,./text_feature/pieman,22,M,train,all
+pieman,sub-072,pieman,sub-072_task-pieman_bold,14,./fmri_pooled_features/sub-072/pieman/sub-072_task-pieman_bold,14,./text_feature/pieman,29,M,train,all
+pieman,sub-073,pieman,sub-073_task-pieman_bold,14,./fmri_pooled_features/sub-073/pieman/sub-073_task-pieman_bold,14,./text_feature/pieman,20,M,train,all
+lucy,sub-073,lucy,sub-073_task-lucy_bold,18,./fmri_pooled_features/sub-073/lucy/sub-073_task-lucy_bold,18,./text_feature/lucy,20,M,val,15
+pieman,sub-074,pieman,sub-074_task-pieman_bold,14,./fmri_pooled_features/sub-074/pieman/sub-074_task-pieman_bold,14,./text_feature/pieman,20,F,train,all
+lucy,sub-074,lucy,sub-074_task-lucy_bold,18,./fmri_pooled_features/sub-074/lucy/sub-074_task-lucy_bold,18,./text_feature/lucy,20,F,val,15
+21styear,sub-075,21styear,sub-075_task-21styear_bold,111,./fmri_pooled_features/sub-075/21styear/sub-075_task-21styear_bold,111,./text_feature/21styear,21,F,val,19
+"himym,santa",sub-075,schema,sub-075_task-schema_run-4_bold,10,./fmri_pooled_features/sub-075/schema/sub-075_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",21,F,train,15
+"friends,bigbang",sub-075,schema,sub-075_task-schema_run-1_bold,10,./fmri_pooled_features/sub-075/schema/sub-075_task-schema_run-1_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",21,F,train,15
+"shame,seinfeld",sub-075,schema,sub-075_task-schema_run-2_bold,10,./fmri_pooled_features/sub-075/schema/sub-075_task-schema_run-2_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",21,F,train,15
+pieman,sub-075,pieman,sub-075_task-pieman_bold,14,./fmri_pooled_features/sub-075/pieman/sub-075_task-pieman_bold,14,./text_feature/pieman,18,F,train,all
+merlin,sub-075,merlin,sub-075_task-merlin_bold,29,./fmri_pooled_features/sub-075/merlin/sub-075_task-merlin_bold,29,./text_feature/merlin,19,F,train,all
+sherlock,sub-075,sherlock,sub-075_task-sherlock_bold,35,./fmri_pooled_features/sub-075/sherlock/sub-075_task-sherlock_bold,35,./text_feature/sherlock,19,F,train,15
+pieman,sub-076,pieman,sub-076_task-pieman_bold,14,./fmri_pooled_features/sub-076/pieman/sub-076_task-pieman_bold,14,./text_feature/pieman,27,M,train,all
+pieman,sub-077,pieman,sub-077_task-pieman_bold,14,./fmri_pooled_features/sub-077/pieman/sub-077_task-pieman_bold,14,./text_feature/pieman,22,M,train,all
+pieman,sub-078,pieman,sub-078_task-pieman_bold,14,./fmri_pooled_features/sub-078/pieman/sub-078_task-pieman_bold,14,./text_feature/pieman,21,F,train,all
+prettymouth,sub-079,prettymouth,sub-079_task-prettymouth_bold,22,./fmri_pooled_features/sub-079/prettymouth/sub-079_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+pieman,sub-079,pieman,sub-079_task-pieman_bold,14,./fmri_pooled_features/sub-079/pieman/sub-079_task-pieman_bold,14,./text_feature/pieman,19,M,train,all
+milkywayvodka,sub-079,milkyway,sub-079_task-milkyway_bold,13,./fmri_pooled_features/sub-079/milkyway/sub-079_task-milkyway_bold,13,./text_feature/milkywayvodka,19,M,train,15
+pieman,sub-080,pieman,sub-080_task-pieman_bold,14,./fmri_pooled_features/sub-080/pieman/sub-080_task-pieman_bold,14,./text_feature/pieman,20,M,train,all
+prettymouth,sub-081,prettymouth,sub-081_task-prettymouth_bold,22,./fmri_pooled_features/sub-081/prettymouth/sub-081_task-prettymouth_bold,22,./text_feature/prettymouth,21,M,train,19
+pieman,sub-081,pieman,sub-081_task-pieman_bold,14,./fmri_pooled_features/sub-081/pieman/sub-081_task-pieman_bold,14,./text_feature/pieman,21,M,train,all
+milkywayoriginal,sub-081,milkyway,sub-081_task-milkyway_bold,13,./fmri_pooled_features/sub-081/milkyway/sub-081_task-milkyway_bold,13,./text_feature/milkywayoriginal,21,M,train,15
+pieman,sub-082,pieman,sub-082_task-pieman_bold,14,./fmri_pooled_features/sub-082/pieman/sub-082_task-pieman_bold,14,./text_feature/pieman,19,M,train,all
+prettymouth,sub-083,prettymouth,sub-083_task-prettymouth_bold,22,./fmri_pooled_features/sub-083/prettymouth/sub-083_task-prettymouth_bold,22,./text_feature/prettymouth,21,F,train,19
+milkywayoriginal,sub-083,milkyway,sub-083_task-milkyway_bold,13,./fmri_pooled_features/sub-083/milkyway/sub-083_task-milkyway_bold,13,./text_feature/milkywayoriginal,21,F,train,15
+prettymouth,sub-084,prettymouth,sub-084_task-prettymouth_bold,22,./fmri_pooled_features/sub-084/prettymouth/sub-084_task-prettymouth_bold,22,./text_feature/prettymouth,18,F,train,19
+notthefallshortscram,sub-084,notthefallshortscram,sub-084_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-084/notthefallshortscram/sub-084_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,19,F,test,15
+notthefallintact,sub-084,notthefallintact,sub-084_task-notthefallintact_bold,18,./fmri_pooled_features/sub-084/notthefallintact/sub-084_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,F,test,15
+slumlordreach,sub-084,slumlordreach,sub-084_task-slumlordreach_bold,57,./fmri_pooled_features/sub-084/slumlordreach/sub-084_task-slumlordreach_bold,57,./text_feature/slumlordreach,19,F,train,19
+prettymouth,sub-085,prettymouth,sub-085_task-prettymouth_bold,22,./fmri_pooled_features/sub-085/prettymouth/sub-085_task-prettymouth_bold,22,./text_feature/prettymouth,21,F,train,19
+prettymouth,sub-086,prettymouth,sub-086_task-prettymouth_bold,22,./fmri_pooled_features/sub-086/prettymouth/sub-086_task-prettymouth_bold,22,./text_feature/prettymouth,20,F,train,19
+milkywayvodka,sub-086,milkyway,sub-086_task-milkyway_bold,13,./fmri_pooled_features/sub-086/milkyway/sub-086_task-milkyway_bold,13,./text_feature/milkywayvodka,20,F,train,15
+prettymouth,sub-087,prettymouth,sub-087_task-prettymouth_bold,22,./fmri_pooled_features/sub-087/prettymouth/sub-087_task-prettymouth_bold,22,./text_feature/prettymouth,19,F,train,19
+milkywayvodka,sub-087,milkyway,sub-087_task-milkyway_bold,13,./fmri_pooled_features/sub-087/milkyway/sub-087_task-milkyway_bold,13,./text_feature/milkywayvodka,19,F,train,15
+prettymouth,sub-088,prettymouth,sub-088_task-prettymouth_bold,22,./fmri_pooled_features/sub-088/prettymouth/sub-088_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+milkywayvodka,sub-088,milkyway,sub-088_task-milkyway_bold,13,./fmri_pooled_features/sub-088/milkyway/sub-088_task-milkyway_bold,13,./text_feature/milkywayvodka,19,M,train,15
+prettymouth,sub-089,prettymouth,sub-089_task-prettymouth_bold,22,./fmri_pooled_features/sub-089/prettymouth/sub-089_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+notthefallshortscram,sub-089,notthefallshortscram,sub-089_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-089/notthefallshortscram/sub-089_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,20,M,test,15
+"friends,bigbang",sub-089,schema,sub-089_task-schema_run-4_bold,10,./fmri_pooled_features/sub-089/schema/sub-089_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",22,M,train,15
+"himym,santa",sub-089,schema,sub-089_task-schema_run-2_bold,10,./fmri_pooled_features/sub-089/schema/sub-089_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",22,M,train,15
+"shame,seinfeld",sub-089,schema,sub-089_task-schema_run-3_bold,10,./fmri_pooled_features/sub-089/schema/sub-089_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",22,M,train,15
+notthefallintact,sub-089,notthefallintact,sub-089_task-notthefallintact_bold,18,./fmri_pooled_features/sub-089/notthefallintact/sub-089_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,M,test,15
+milkywayvodka,sub-089,milkyway,sub-089_task-milkyway_bold,13,./fmri_pooled_features/sub-089/milkyway/sub-089_task-milkyway_bold,13,./text_feature/milkywayvodka,19,M,train,15
+prettymouth,sub-090,prettymouth,sub-090_task-prettymouth_bold,22,./fmri_pooled_features/sub-090/prettymouth/sub-090_task-prettymouth_bold,22,./text_feature/prettymouth,20,F,train,19
+milkywayvodka,sub-090,milkyway,sub-090_task-milkyway_bold,13,./fmri_pooled_features/sub-090/milkyway/sub-090_task-milkyway_bold,13,./text_feature/milkywayvodka,20,F,train,15
+prettymouth,sub-091,prettymouth,sub-091_task-prettymouth_bold,22,./fmri_pooled_features/sub-091/prettymouth/sub-091_task-prettymouth_bold,22,./text_feature/prettymouth,21,M,train,19
+milkywayoriginal,sub-091,milkyway,sub-091_task-milkyway_bold,13,./fmri_pooled_features/sub-091/milkyway/sub-091_task-milkyway_bold,13,./text_feature/milkywayoriginal,21,M,train,15
+prettymouth,sub-092,prettymouth,sub-092_task-prettymouth_bold,22,./fmri_pooled_features/sub-092/prettymouth/sub-092_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+prettymouth,sub-093,prettymouth,sub-093_task-prettymouth_bold,22,./fmri_pooled_features/sub-093/prettymouth/sub-093_task-prettymouth_bold,22,./text_feature/prettymouth,20,F,train,19
+milkywayoriginal,sub-093,milkyway,sub-093_task-milkyway_bold,13,./fmri_pooled_features/sub-093/milkyway/sub-093_task-milkyway_bold,13,./text_feature/milkywayoriginal,20,F,train,15
+prettymouth,sub-094,prettymouth,sub-094_task-prettymouth_bold,22,./fmri_pooled_features/sub-094/prettymouth/sub-094_task-prettymouth_bold,22,./text_feature/prettymouth,20,F,train,19
+prettymouth,sub-095,prettymouth,sub-095_task-prettymouth_bold,22,./fmri_pooled_features/sub-095/prettymouth/sub-095_task-prettymouth_bold,22,./text_feature/prettymouth,20,M,train,19
+notthefallshortscram,sub-095,notthefallshortscram,sub-095_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-095/notthefallshortscram/sub-095_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,20,M,test,15
+shapesphysical,sub-095,shapesphysical,sub-095_task-shapesphysical_bold,13,./fmri_pooled_features/sub-095/shapesphysical/sub-095_task-shapesphysical_bold,13,./text_feature/shapesphysical,22,M,val,all
+shapessocial,sub-095,shapessocial,sub-095_task-shapessocial_bold,13,./fmri_pooled_features/sub-095/shapessocial/sub-095_task-shapessocial_bold,13,./text_feature/shapessocial,22,M,val,all
+notthefallintact,sub-095,notthefallintact,sub-095_task-notthefallintact_bold,18,./fmri_pooled_features/sub-095/notthefallintact/sub-095_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,M,test,15
+milkywayoriginal,sub-095,milkyway,sub-095_task-milkyway_bold,13,./fmri_pooled_features/sub-095/milkyway/sub-095_task-milkyway_bold,13,./text_feature/milkywayoriginal,20,M,train,15
+prettymouth,sub-096,prettymouth,sub-096_task-prettymouth_bold,22,./fmri_pooled_features/sub-096/prettymouth/sub-096_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+notthefallshortscram,sub-096,notthefallshortscram,sub-096_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-096/notthefallshortscram/sub-096_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,19,M,test,15
+notthefallintact,sub-096,notthefallintact,sub-096_task-notthefallintact_bold,18,./fmri_pooled_features/sub-096/notthefallintact/sub-096_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,M,test,15
+milkywayoriginal,sub-096,milkyway,sub-096_task-milkyway_bold,13,./fmri_pooled_features/sub-096/milkyway/sub-096_task-milkyway_bold,13,./text_feature/milkywayoriginal,19,M,train,15
+prettymouth,sub-097,prettymouth,sub-097_task-prettymouth_bold,22,./fmri_pooled_features/sub-097/prettymouth/sub-097_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+milkywayvodka,sub-097,milkyway,sub-097_task-milkyway_bold,13,./fmri_pooled_features/sub-097/milkyway/sub-097_task-milkyway_bold,13,./text_feature/milkywayvodka,19,M,train,15
+prettymouth,sub-098,prettymouth,sub-098_task-prettymouth_bold,22,./fmri_pooled_features/sub-098/prettymouth/sub-098_task-prettymouth_bold,22,./text_feature/prettymouth,18,M,train,19
+milkywayvodka,sub-098,milkyway,sub-098_task-milkyway_bold,13,./fmri_pooled_features/sub-098/milkyway/sub-098_task-milkyway_bold,13,./text_feature/milkywayvodka,18,M,train,15
+prettymouth,sub-099,prettymouth,sub-099_task-prettymouth_bold,22,./fmri_pooled_features/sub-099/prettymouth/sub-099_task-prettymouth_bold,22,./text_feature/prettymouth,18,F,train,19
+milkywayoriginal,sub-099,milkyway,sub-099_task-milkyway_bold,13,./fmri_pooled_features/sub-099/milkyway/sub-099_task-milkyway_bold,13,./text_feature/milkywayoriginal,18,F,train,15
+prettymouth,sub-100,prettymouth,sub-100_task-prettymouth_bold,22,./fmri_pooled_features/sub-100/prettymouth/sub-100_task-prettymouth_bold,22,./text_feature/prettymouth,18,M,train,19
+milkywayoriginal,sub-100,milkyway,sub-100_task-milkyway_bold,13,./fmri_pooled_features/sub-100/milkyway/sub-100_task-milkyway_bold,13,./text_feature/milkywayoriginal,18,M,train,15
+prettymouth,sub-101,prettymouth,sub-101_task-prettymouth_bold,22,./fmri_pooled_features/sub-101/prettymouth/sub-101_task-prettymouth_bold,22,./text_feature/prettymouth,22,M,train,19
+milkywayoriginal,sub-101,milkyway,sub-101_task-milkyway_bold,13,./fmri_pooled_features/sub-101/milkyway/sub-101_task-milkyway_bold,13,./text_feature/milkywayoriginal,22,M,train,15
+prettymouth,sub-102,prettymouth,sub-102_task-prettymouth_bold,22,./fmri_pooled_features/sub-102/prettymouth/sub-102_task-prettymouth_bold,22,./text_feature/prettymouth,27,M,train,19
+milkywayvodka,sub-102,milkyway,sub-102_task-milkyway_bold,13,./fmri_pooled_features/sub-102/milkyway/sub-102_task-milkyway_bold,13,./text_feature/milkywayvodka,27,M,train,15
+prettymouth,sub-103,prettymouth,sub-103_task-prettymouth_bold,22,./fmri_pooled_features/sub-103/prettymouth/sub-103_task-prettymouth_bold,22,./text_feature/prettymouth,19,F,train,19
+milkywayvodka,sub-103,milkyway,sub-103_task-milkyway_bold,13,./fmri_pooled_features/sub-103/milkyway/sub-103_task-milkyway_bold,13,./text_feature/milkywayvodka,19,F,train,15
+prettymouth,sub-104,prettymouth,sub-104_task-prettymouth_bold,22,./fmri_pooled_features/sub-104/prettymouth/sub-104_task-prettymouth_bold,22,./text_feature/prettymouth,18,F,train,19
+milkywayoriginal,sub-104,milkyway,sub-104_task-milkyway_bold,13,./fmri_pooled_features/sub-104/milkyway/sub-104_task-milkyway_bold,13,./text_feature/milkywayoriginal,18,F,train,15
+prettymouth,sub-105,prettymouth,sub-105_task-prettymouth_bold,22,./fmri_pooled_features/sub-105/prettymouth/sub-105_task-prettymouth_bold,22,./text_feature/prettymouth,22,F,train,19
+milkywayoriginal,sub-105,milkyway,sub-105_task-milkyway_bold,13,./fmri_pooled_features/sub-105/milkyway/sub-105_task-milkyway_bold,13,./text_feature/milkywayoriginal,22,F,train,15
+prettymouth,sub-106,prettymouth,sub-106_task-prettymouth_bold,22,./fmri_pooled_features/sub-106/prettymouth/sub-106_task-prettymouth_bold,22,./text_feature/prettymouth,22,M,train,19
+notthefallintact,sub-106,notthefallintact,sub-106_task-notthefallintact_bold,18,./fmri_pooled_features/sub-106/notthefallintact/sub-106_task-notthefallintact_bold,18,./text_feature/notthefallintact,22,M,test,15
+milkywayoriginal,sub-106,milkyway,sub-106_task-milkyway_bold,13,./fmri_pooled_features/sub-106/milkyway/sub-106_task-milkyway_bold,13,./text_feature/milkywayoriginal,22,M,train,15
+notthefalllongscram,sub-106,notthefalllongscram,sub-106_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-106/notthefalllongscram/sub-106_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,22,M,test,15
+slumlordreach,sub-106,slumlordreach,sub-106_task-slumlordreach_bold,57,./fmri_pooled_features/sub-106/slumlordreach/sub-106_task-slumlordreach_bold,57,./text_feature/slumlordreach,22,M,train,19
+prettymouth,sub-107,prettymouth,sub-107_task-prettymouth_bold,22,./fmri_pooled_features/sub-107/prettymouth/sub-107_task-prettymouth_bold,22,./text_feature/prettymouth,19,F,train,19
+milkywayvodka,sub-107,milkyway,sub-107_task-milkyway_bold,13,./fmri_pooled_features/sub-107/milkyway/sub-107_task-milkyway_bold,13,./text_feature/milkywayvodka,19,F,train,15
+prettymouth,sub-108,prettymouth,sub-108_task-prettymouth_bold,22,./fmri_pooled_features/sub-108/prettymouth/sub-108_task-prettymouth_bold,22,./text_feature/prettymouth,22,F,train,19
+milkywayoriginal,sub-108,milkyway,sub-108_task-milkyway_bold,13,./fmri_pooled_features/sub-108/milkyway/sub-108_task-milkyway_bold,13,./text_feature/milkywayoriginal,22,F,train,15
+prettymouth,sub-109,prettymouth,sub-109_task-prettymouth_bold,22,./fmri_pooled_features/sub-109/prettymouth/sub-109_task-prettymouth_bold,22,./text_feature/prettymouth,31,M,train,19
+"shame,seinfeld",sub-109,schema,sub-109_task-schema_run-2_bold,10,./fmri_pooled_features/sub-109/schema/sub-109_task-schema_run-2_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",33,M,train,15
+"himym,santa",sub-109,schema,sub-109_task-schema_run-1_bold,10,./fmri_pooled_features/sub-109/schema/sub-109_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",33,M,train,15
+"friends,bigbang",sub-109,schema,sub-109_task-schema_run-4_bold,10,./fmri_pooled_features/sub-109/schema/sub-109_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",33,M,train,15
+milkywayvodka,sub-109,milkyway,sub-109_task-milkyway_bold,13,./fmri_pooled_features/sub-109/milkyway/sub-109_task-milkyway_bold,13,./text_feature/milkywayvodka,31,M,train,15
+prettymouth,sub-110,prettymouth,sub-110_task-prettymouth_bold,22,./fmri_pooled_features/sub-110/prettymouth/sub-110_task-prettymouth_bold,22,./text_feature/prettymouth,26,M,train,19
+milkywayvodka,sub-110,milkyway,sub-110_task-milkyway_bold,13,./fmri_pooled_features/sub-110/milkyway/sub-110_task-milkyway_bold,13,./text_feature/milkywayvodka,26,M,train,15
+prettymouth,sub-111,prettymouth,sub-111_task-prettymouth_bold,22,./fmri_pooled_features/sub-111/prettymouth/sub-111_task-prettymouth_bold,22,./text_feature/prettymouth,19,M,train,19
+notthefallintact,sub-111,notthefallintact,sub-111_task-notthefallintact_bold,18,./fmri_pooled_features/sub-111/notthefallintact/sub-111_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,M,test,15
+milkywayoriginal,sub-111,milkyway,sub-111_task-milkyway_bold,13,./fmri_pooled_features/sub-111/milkyway/sub-111_task-milkyway_bold,13,./text_feature/milkywayoriginal,19,M,train,15
+notthefalllongscram,sub-111,notthefalllongscram,sub-111_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-111/notthefalllongscram/sub-111_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,19,M,test,15
+slumlordreach,sub-111,slumlordreach,sub-111_task-slumlordreach_bold,57,./fmri_pooled_features/sub-111/slumlordreach/sub-111_task-slumlordreach_bold,57,./text_feature/slumlordreach,19,M,train,19
+milkywayoriginal,sub-112,milkyway,sub-112_task-milkyway_bold,13,./fmri_pooled_features/sub-112/milkyway/sub-112_task-milkyway_bold,13,./text_feature/milkywayoriginal,18,F,train,15
+milkywayoriginal,sub-113,milkyway,sub-113_task-milkyway_bold,13,./fmri_pooled_features/sub-113/milkyway/sub-113_task-milkyway_bold,13,./text_feature/milkywayoriginal,19,F,train,15
+milkywayoriginal,sub-114,milkyway,sub-114_task-milkyway_bold,13,./fmri_pooled_features/sub-114/milkyway/sub-114_task-milkyway_bold,13,./text_feature/milkywayoriginal,21,F,train,15
+shapesphysical,sub-115,shapesphysical,sub-115_task-shapesphysical_bold,13,./fmri_pooled_features/sub-115/shapesphysical/sub-115_task-shapesphysical_bold,13,./text_feature/shapesphysical,23,F,val,all
+shapessocial,sub-115,shapessocial,sub-115_task-shapessocial_bold,13,./fmri_pooled_features/sub-115/shapessocial/sub-115_task-shapessocial_bold,13,./text_feature/shapessocial,23,F,val,all
+milkywaysynonyms,sub-115,milkyway,sub-115_task-milkyway_bold,13,./fmri_pooled_features/sub-115/milkyway/sub-115_task-milkyway_bold,13,./text_feature/milkywaysynonyms,24,F,train,15
+milkywaysynonyms,sub-116,milkyway,sub-116_task-milkyway_bold,13,./fmri_pooled_features/sub-116/milkyway/sub-116_task-milkyway_bold,13,./text_feature/milkywaysynonyms,20,F,train,15
+milkywaysynonyms,sub-117,milkyway,sub-117_task-milkyway_bold,13,./fmri_pooled_features/sub-117/milkyway/sub-117_task-milkyway_bold,13,./text_feature/milkywaysynonyms,18,M,train,15
+milkywaysynonyms,sub-118,milkyway,sub-118_task-milkyway_bold,13,./fmri_pooled_features/sub-118/milkyway/sub-118_task-milkyway_bold,13,./text_feature/milkywaysynonyms,19,M,train,15
+milkywaysynonyms,sub-119,milkyway,sub-119_task-milkyway_bold,13,./fmri_pooled_features/sub-119/milkyway/sub-119_task-milkyway_bold,13,./text_feature/milkywaysynonyms,21,M,train,15
+milkywaysynonyms,sub-120,milkyway,sub-120_task-milkyway_bold,13,./fmri_pooled_features/sub-120/milkyway/sub-120_task-milkyway_bold,13,./text_feature/milkywaysynonyms,20,M,train,15
+milkywaysynonyms,sub-121,milkyway,sub-121_task-milkyway_bold,13,./fmri_pooled_features/sub-121/milkyway/sub-121_task-milkyway_bold,13,./text_feature/milkywaysynonyms,19,F,train,15
+milkywaysynonyms,sub-122,milkyway,sub-122_task-milkyway_bold,13,./fmri_pooled_features/sub-122/milkyway/sub-122_task-milkyway_bold,13,./text_feature/milkywaysynonyms,20,F,train,15
+milkywaysynonyms,sub-123,milkyway,sub-123_task-milkyway_bold,13,./fmri_pooled_features/sub-123/milkyway/sub-123_task-milkyway_bold,13,./text_feature/milkywaysynonyms,19,F,train,15
+milkywaysynonyms,sub-124,milkyway,sub-124_task-milkyway_bold,13,./fmri_pooled_features/sub-124/milkyway/sub-124_task-milkyway_bold,13,./text_feature/milkywaysynonyms,20,M,train,15
+milkywaysynonyms,sub-125,milkyway,sub-125_task-milkyway_bold,13,./fmri_pooled_features/sub-125/milkyway/sub-125_task-milkyway_bold,13,./text_feature/milkywaysynonyms,19,F,train,15
+milkywaysynonyms,sub-126,milkyway,sub-126_task-milkyway_bold,13,./fmri_pooled_features/sub-126/milkyway/sub-126_task-milkyway_bold,13,./text_feature/milkywaysynonyms,21,F,train,15
+shapesphysical,sub-127,shapesphysical,sub-127_task-shapesphysical_bold,13,./fmri_pooled_features/sub-127/shapesphysical/sub-127_task-shapesphysical_bold,13,./text_feature/shapesphysical,30,F,val,all
+shapessocial,sub-127,shapessocial,sub-127_task-shapessocial_bold,13,./fmri_pooled_features/sub-127/shapessocial/sub-127_task-shapessocial_bold,13,./text_feature/shapessocial,30,F,val,all
+black,sub-127,black,sub-127_task-black_bold,26,./fmri_pooled_features/sub-127/black/sub-127_task-black_bold,26,./text_feature/black,32,F,test,19
+milkywaysynonyms,sub-127,milkyway,sub-127_task-milkyway_bold,13,./fmri_pooled_features/sub-127/milkyway/sub-127_task-milkyway_bold,13,./text_feature/milkywaysynonyms,31,F,train,15
+bronx,sub-127,bronx,sub-127_task-bronx_bold,17,./fmri_pooled_features/sub-127/bronx/sub-127_task-bronx_bold,17,./text_feature/bronx,32,F,train,15
+forgot,sub-127,forgot,sub-127_task-forgot_bold,27,./fmri_pooled_features/sub-127/forgot/sub-127_task-forgot_bold,27,./text_feature/forgot,32,F,train,19
+piemanpni,sub-127,piemanpni,sub-127_task-piemanpni_bold,13,./fmri_pooled_features/sub-127/piemanpni/sub-127_task-piemanpni_bold,13,./text_feature/piemanpni,32,F,test,all
+milkywaysynonyms,sub-128,milkyway,sub-128_task-milkyway_bold,13,./fmri_pooled_features/sub-128/milkyway/sub-128_task-milkyway_bold,13,./text_feature/milkywaysynonyms,19,M,train,15
+milkywaysynonyms,sub-129,milkyway,sub-129_task-milkyway_bold,13,./fmri_pooled_features/sub-129/milkyway/sub-129_task-milkyway_bold,13,./text_feature/milkywaysynonyms,20,M,train,15
+milkywaysynonyms,sub-130,milkyway,sub-130_task-milkyway_bold,13,./fmri_pooled_features/sub-130/milkyway/sub-130_task-milkyway_bold,13,./text_feature/milkywaysynonyms,19,F,train,15
+21styear,sub-131,21styear,sub-131_task-21styear_bold,111,./fmri_pooled_features/sub-131/21styear/sub-131_task-21styear_bold,111,./text_feature/21styear,23,M,val,19
+milkywaysynonyms,sub-131,milkyway,sub-131_task-milkyway_bold,13,./fmri_pooled_features/sub-131/milkyway/sub-131_task-milkyway_bold,13,./text_feature/milkywaysynonyms,22,M,train,15
+"vinny,upintheair",sub-132,schema,sub-132_task-schema_run-3_bold,11,./fmri_pooled_features/sub-132/schema/sub-132_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",25,M,train,15
+"shame,seinfeld",sub-132,schema,sub-132_task-schema_run-1_bold,10,./fmri_pooled_features/sub-132/schema/sub-132_task-schema_run-1_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",25,M,train,15
+"himym,santa",sub-132,schema,sub-132_task-schema_run-4_bold,10,./fmri_pooled_features/sub-132/schema/sub-132_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",25,M,train,15
+"friends,bigbang",sub-132,schema,sub-132_task-schema_run-2_bold,10,./fmri_pooled_features/sub-132/schema/sub-132_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",25,M,train,15
+notthefallintact,sub-132,notthefallintact,sub-132_task-notthefallintact_bold,18,./fmri_pooled_features/sub-132/notthefallintact/sub-132_task-notthefallintact_bold,18,./text_feature/notthefallintact,23,M,test,15
+notthefalllongscram,sub-132,notthefalllongscram,sub-132_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-132/notthefalllongscram/sub-132_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,23,M,test,15
+slumlordreach,sub-132,slumlordreach,sub-132_task-slumlordreach_bold,57,./fmri_pooled_features/sub-132/slumlordreach/sub-132_task-slumlordreach_bold,57,./text_feature/slumlordreach,23,M,train,19
+notthefallintact,sub-133,notthefallintact,sub-133_task-notthefallintact_bold,18,./fmri_pooled_features/sub-133/notthefallintact/sub-133_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,F,test,15
+notthefalllongscram,sub-133,notthefalllongscram,sub-133_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-133/notthefalllongscram/sub-133_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,19,F,test,15
+slumlordreach,sub-133,slumlordreach,sub-133_task-slumlordreach_bold,57,./fmri_pooled_features/sub-133/slumlordreach/sub-133_task-slumlordreach_bold,57,./text_feature/slumlordreach,19,F,train,19
+notthefallintact,sub-134,notthefallintact,sub-134_task-notthefallintact_bold,18,./fmri_pooled_features/sub-134/notthefallintact/sub-134_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,M,test,15
+notthefalllongscram,sub-134,notthefalllongscram,sub-134_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-134/notthefalllongscram/sub-134_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,19,M,test,15
+slumlordreach,sub-134,slumlordreach,sub-134_task-slumlordreach_bold,57,./fmri_pooled_features/sub-134/slumlordreach/sub-134_task-slumlordreach_bold,57,./text_feature/slumlordreach,19,M,train,19
+notthefallshortscram,sub-135,notthefallshortscram,sub-135_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-135/notthefallshortscram/sub-135_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,18,M,test,15
+notthefallintact,sub-135,notthefallintact,sub-135_task-notthefallintact_bold,18,./fmri_pooled_features/sub-135/notthefallintact/sub-135_task-notthefallintact_bold,18,./text_feature/notthefallintact,18,M,test,15
+slumlordreach,sub-135,slumlordreach,sub-135_task-slumlordreach_bold,57,./fmri_pooled_features/sub-135/slumlordreach/sub-135_task-slumlordreach_bold,57,./text_feature/slumlordreach,18,M,train,19
+notthefallshortscram,sub-136,notthefallshortscram,sub-136_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-136/notthefallshortscram/sub-136_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,21,F,test,15
+notthefallintact,sub-136,notthefallintact,sub-136_task-notthefallintact_bold,18,./fmri_pooled_features/sub-136/notthefallintact/sub-136_task-notthefallintact_bold,18,./text_feature/notthefallintact,21,F,test,15
+slumlordreach,sub-136,slumlordreach,sub-136_task-slumlordreach_bold,57,./fmri_pooled_features/sub-136/slumlordreach/sub-136_task-slumlordreach_bold,57,./text_feature/slumlordreach,21,F,train,19
+notthefallshortscram,sub-137,notthefallshortscram,sub-137_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-137/notthefallshortscram/sub-137_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,21,F,test,15
+notthefallintact,sub-137,notthefallintact,sub-137_task-notthefallintact_bold,18,./fmri_pooled_features/sub-137/notthefallintact/sub-137_task-notthefallintact_bold,18,./text_feature/notthefallintact,21,F,test,15
+slumlordreach,sub-137,slumlordreach,sub-137_task-slumlordreach_bold,57,./fmri_pooled_features/sub-137/slumlordreach/sub-137_task-slumlordreach_bold,57,./text_feature/slumlordreach,21,F,train,19
+slumlordreach,sub-138,slumlordreach,sub-138_task-slumlordreach_bold,57,./fmri_pooled_features/sub-138/slumlordreach/sub-138_task-slumlordreach_bold,57,./text_feature/slumlordreach,21,F,train,19
+notthefallintact,sub-139,notthefallintact,sub-139_task-notthefallintact_bold,18,./fmri_pooled_features/sub-139/notthefallintact/sub-139_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,M,test,15
+notthefalllongscram,sub-139,notthefalllongscram,sub-139_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-139/notthefalllongscram/sub-139_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,20,M,test,15
+slumlordreach,sub-139,slumlordreach,sub-139_task-slumlordreach_bold,57,./fmri_pooled_features/sub-139/slumlordreach/sub-139_task-slumlordreach_bold,57,./text_feature/slumlordreach,20,M,train,19
+notthefallintact,sub-140,notthefallintact,sub-140_task-notthefallintact_bold,18,./fmri_pooled_features/sub-140/notthefallintact/sub-140_task-notthefallintact_bold,18,./text_feature/notthefallintact,26,M,test,15
+notthefalllongscram,sub-140,notthefalllongscram,sub-140_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-140/notthefalllongscram/sub-140_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,26,M,test,15
+slumlordreach,sub-140,slumlordreach,sub-140_task-slumlordreach_bold,57,./fmri_pooled_features/sub-140/slumlordreach/sub-140_task-slumlordreach_bold,57,./text_feature/slumlordreach,26,M,train,19
+notthefallshortscram,sub-141,notthefallshortscram,sub-141_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-141/notthefallshortscram/sub-141_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,20,M,test,15
+notthefallintact,sub-141,notthefallintact,sub-141_task-notthefallintact_bold,18,./fmri_pooled_features/sub-141/notthefallintact/sub-141_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,M,test,15
+slumlordreach,sub-141,slumlordreach,sub-141_task-slumlordreach_bold,57,./fmri_pooled_features/sub-141/slumlordreach/sub-141_task-slumlordreach_bold,57,./text_feature/slumlordreach,20,M,train,19
+notthefallintact,sub-142,notthefallintact,sub-142_task-notthefallintact_bold,18,./fmri_pooled_features/sub-142/notthefallintact/sub-142_task-notthefallintact_bold,18,./text_feature/notthefallintact,21,F,test,15
+notthefalllongscram,sub-142,notthefalllongscram,sub-142_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-142/notthefalllongscram/sub-142_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,21,F,test,15
+slumlordreach,sub-142,slumlordreach,sub-142_task-slumlordreach_bold,57,./fmri_pooled_features/sub-142/slumlordreach/sub-142_task-slumlordreach_bold,57,./text_feature/slumlordreach,21,F,train,19
+notthefallshortscram,sub-143,notthefallshortscram,sub-143_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-143/notthefallshortscram/sub-143_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,23,M,test,15
+notthefallintact,sub-143,notthefallintact,sub-143_task-notthefallintact_bold,18,./fmri_pooled_features/sub-143/notthefallintact/sub-143_task-notthefallintact_bold,18,./text_feature/notthefallintact,23,M,test,15
+slumlordreach,sub-143,slumlordreach,sub-143_task-slumlordreach_bold,57,./fmri_pooled_features/sub-143/slumlordreach/sub-143_task-slumlordreach_bold,57,./text_feature/slumlordreach,23,M,train,19
+notthefallintact,sub-144,notthefallintact,sub-144_task-notthefallintact_bold,18,./fmri_pooled_features/sub-144/notthefallintact/sub-144_task-notthefallintact_bold,18,./text_feature/notthefallintact,22,F,test,15
+notthefalllongscram,sub-144,notthefalllongscram,sub-144_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-144/notthefalllongscram/sub-144_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,22,F,test,15
+slumlordreach,sub-144,slumlordreach,sub-144_task-slumlordreach_bold,57,./fmri_pooled_features/sub-144/slumlordreach/sub-144_task-slumlordreach_bold,57,./text_feature/slumlordreach,22,F,train,19
+notthefallintact,sub-145,notthefallintact,sub-145_task-notthefallintact_bold,18,./fmri_pooled_features/sub-145/notthefallintact/sub-145_task-notthefallintact_bold,18,./text_feature/notthefallintact,27,M,test,15
+slumlordreach,sub-145,slumlordreach,sub-145_task-slumlordreach_bold,57,./fmri_pooled_features/sub-145/slumlordreach/sub-145_task-slumlordreach_bold,57,./text_feature/slumlordreach,27,M,train,19
+merlin,sub-146,merlin,sub-146_task-merlin_bold,29,./fmri_pooled_features/sub-146/merlin/sub-146_task-merlin_bold,29,./text_feature/merlin,25,M,train,all
+sherlock,sub-146,sherlock,sub-146_task-sherlock_bold,35,./fmri_pooled_features/sub-146/sherlock/sub-146_task-sherlock_bold,35,./text_feature/sherlock,25,M,train,15
+merlin,sub-147,merlin,sub-147_task-merlin_bold,29,./fmri_pooled_features/sub-147/merlin/sub-147_task-merlin_bold,29,./text_feature/merlin,22,M,train,all
+sherlock,sub-147,sherlock,sub-147_task-sherlock_bold,35,./fmri_pooled_features/sub-147/sherlock/sub-147_task-sherlock_bold,35,./text_feature/sherlock,22,M,train,15
+merlin,sub-148,merlin,sub-148_task-merlin_bold,29,./fmri_pooled_features/sub-148/merlin/sub-148_task-merlin_bold,29,./text_feature/merlin,20,F,train,all
+sherlock,sub-148,sherlock,sub-148_task-sherlock_bold,35,./fmri_pooled_features/sub-148/sherlock/sub-148_task-sherlock_bold,35,./text_feature/sherlock,20,F,train,15
+merlin,sub-149,merlin,sub-149_task-merlin_bold,29,./fmri_pooled_features/sub-149/merlin/sub-149_task-merlin_bold,29,./text_feature/merlin,47,M,train,all
+sherlock,sub-149,sherlock,sub-149_task-sherlock_bold,35,./fmri_pooled_features/sub-149/sherlock/sub-149_task-sherlock_bold,35,./text_feature/sherlock,47,M,train,15
+merlin,sub-150,merlin,sub-150_task-merlin_bold,29,./fmri_pooled_features/sub-150/merlin/sub-150_task-merlin_bold,29,./text_feature/merlin,20,F,train,all
+sherlock,sub-150,sherlock,sub-150_task-sherlock_bold,35,./fmri_pooled_features/sub-150/sherlock/sub-150_task-sherlock_bold,35,./text_feature/sherlock,20,F,train,15
+merlin,sub-151,merlin,sub-151_task-merlin_bold,29,./fmri_pooled_features/sub-151/merlin/sub-151_task-merlin_bold,29,./text_feature/merlin,25,M,train,all
+sherlock,sub-151,sherlock,sub-151_task-sherlock_bold,35,./fmri_pooled_features/sub-151/sherlock/sub-151_task-sherlock_bold,35,./text_feature/sherlock,25,M,train,15
+merlin,sub-152,merlin,sub-152_task-merlin_bold,29,./fmri_pooled_features/sub-152/merlin/sub-152_task-merlin_bold,29,./text_feature/merlin,22,F,train,all
+sherlock,sub-152,sherlock,sub-152_task-sherlock_bold,35,./fmri_pooled_features/sub-152/sherlock/sub-152_task-sherlock_bold,35,./text_feature/sherlock,22,F,train,15
+merlin,sub-153,merlin,sub-153_task-merlin_bold,29,./fmri_pooled_features/sub-153/merlin/sub-153_task-merlin_bold,29,./text_feature/merlin,21,F,train,all
+sherlock,sub-153,sherlock,sub-153_task-sherlock_bold,35,./fmri_pooled_features/sub-153/sherlock/sub-153_task-sherlock_bold,35,./text_feature/sherlock,21,F,train,15
+merlin,sub-154,merlin,sub-154_task-merlin_bold,29,./fmri_pooled_features/sub-154/merlin/sub-154_task-merlin_bold,29,./text_feature/merlin,21,F,train,all
+sherlock,sub-154,sherlock,sub-154_task-sherlock_bold,35,./fmri_pooled_features/sub-154/sherlock/sub-154_task-sherlock_bold,35,./text_feature/sherlock,21,F,train,15
+merlin,sub-155,merlin,sub-155_task-merlin_bold,29,./fmri_pooled_features/sub-155/merlin/sub-155_task-merlin_bold,29,./text_feature/merlin,26,F,train,all
+sherlock,sub-155,sherlock,sub-155_task-sherlock_bold,35,./fmri_pooled_features/sub-155/sherlock/sub-155_task-sherlock_bold,35,./text_feature/sherlock,26,F,train,15
+merlin,sub-156,merlin,sub-156_task-merlin_bold,29,./fmri_pooled_features/sub-156/merlin/sub-156_task-merlin_bold,29,./text_feature/merlin,19,M,train,all
+sherlock,sub-156,sherlock,sub-156_task-sherlock_bold,35,./fmri_pooled_features/sub-156/sherlock/sub-156_task-sherlock_bold,35,./text_feature/sherlock,19,M,train,15
+merlin,sub-157,merlin,sub-157_task-merlin_bold,29,./fmri_pooled_features/sub-157/merlin/sub-157_task-merlin_bold,29,./text_feature/merlin,19,M,train,all
+sherlock,sub-157,sherlock,sub-157_task-sherlock_bold,35,./fmri_pooled_features/sub-157/sherlock/sub-157_task-sherlock_bold,35,./text_feature/sherlock,19,M,train,15
+merlin,sub-158,merlin,sub-158_task-merlin_bold,29,./fmri_pooled_features/sub-158/merlin/sub-158_task-merlin_bold,29,./text_feature/merlin,21,M,train,all
+sherlock,sub-158,sherlock,sub-158_task-sherlock_bold,35,./fmri_pooled_features/sub-158/sherlock/sub-158_task-sherlock_bold,35,./text_feature/sherlock,21,M,train,15
+merlin,sub-159,merlin,sub-159_task-merlin_bold,29,./fmri_pooled_features/sub-159/merlin/sub-159_task-merlin_bold,29,./text_feature/merlin,21,M,train,all
+sherlock,sub-159,sherlock,sub-159_task-sherlock_bold,35,./fmri_pooled_features/sub-159/sherlock/sub-159_task-sherlock_bold,35,./text_feature/sherlock,21,M,train,15
+merlin,sub-160,merlin,sub-160_task-merlin_bold,29,./fmri_pooled_features/sub-160/merlin/sub-160_task-merlin_bold,29,./text_feature/merlin,20,F,train,all
+sherlock,sub-160,sherlock,sub-160_task-sherlock_bold,35,./fmri_pooled_features/sub-160/sherlock/sub-160_task-sherlock_bold,35,./text_feature/sherlock,20,F,train,15
+merlin,sub-161,merlin,sub-161_task-merlin_bold,29,./fmri_pooled_features/sub-161/merlin/sub-161_task-merlin_bold,29,./text_feature/merlin,23,F,train,all
+sherlock,sub-161,sherlock,sub-161_task-sherlock_bold,35,./fmri_pooled_features/sub-161/sherlock/sub-161_task-sherlock_bold,35,./text_feature/sherlock,23,F,train,15
+merlin,sub-162,merlin,sub-162_task-merlin_bold,29,./fmri_pooled_features/sub-162/merlin/sub-162_task-merlin_bold,29,./text_feature/merlin,19,M,train,all
+sherlock,sub-162,sherlock,sub-162_task-sherlock_bold,35,./fmri_pooled_features/sub-162/sherlock/sub-162_task-sherlock_bold,35,./text_feature/sherlock,19,M,train,15
+merlin,sub-163,merlin,sub-163_task-merlin_bold,29,./fmri_pooled_features/sub-163/merlin/sub-163_task-merlin_bold,29,./text_feature/merlin,21,F,train,all
+sherlock,sub-163,sherlock,sub-163_task-sherlock_bold,35,./fmri_pooled_features/sub-163/sherlock/sub-163_task-sherlock_bold,35,./text_feature/sherlock,21,F,train,15
+merlin,sub-164,merlin,sub-164_task-merlin_bold,29,./fmri_pooled_features/sub-164/merlin/sub-164_task-merlin_bold,29,./text_feature/merlin,19,F,train,all
+sherlock,sub-164,sherlock,sub-164_task-sherlock_bold,35,./fmri_pooled_features/sub-164/sherlock/sub-164_task-sherlock_bold,35,./text_feature/sherlock,19,F,train,15
+merlin,sub-165,merlin,sub-165_task-merlin_bold,29,./fmri_pooled_features/sub-165/merlin/sub-165_task-merlin_bold,29,./text_feature/merlin,22,F,train,all
+sherlock,sub-165,sherlock,sub-165_task-sherlock_bold,35,./fmri_pooled_features/sub-165/sherlock/sub-165_task-sherlock_bold,35,./text_feature/sherlock,22,F,train,15
+merlin,sub-166,merlin,sub-166_task-merlin_bold,29,./fmri_pooled_features/sub-166/merlin/sub-166_task-merlin_bold,29,./text_feature/merlin,21,F,train,all
+sherlock,sub-166,sherlock,sub-166_task-sherlock_bold,35,./fmri_pooled_features/sub-166/sherlock/sub-166_task-sherlock_bold,35,./text_feature/sherlock,21,F,train,15
+merlin,sub-167,merlin,sub-167_task-merlin_bold,29,./fmri_pooled_features/sub-167/merlin/sub-167_task-merlin_bold,29,./text_feature/merlin,21,F,train,all
+sherlock,sub-167,sherlock,sub-167_task-sherlock_bold,35,./fmri_pooled_features/sub-167/sherlock/sub-167_task-sherlock_bold,35,./text_feature/sherlock,21,F,train,15
+merlin,sub-168,merlin,sub-168_task-merlin_bold,29,./fmri_pooled_features/sub-168/merlin/sub-168_task-merlin_bold,29,./text_feature/merlin,18,F,train,all
+sherlock,sub-168,sherlock,sub-168_task-sherlock_bold,35,./fmri_pooled_features/sub-168/sherlock/sub-168_task-sherlock_bold,35,./text_feature/sherlock,18,F,train,15
+merlin,sub-169,merlin,sub-169_task-merlin_bold,29,./fmri_pooled_features/sub-169/merlin/sub-169_task-merlin_bold,29,./text_feature/merlin,25,M,train,all
+sherlock,sub-169,sherlock,sub-169_task-sherlock_bold,35,./fmri_pooled_features/sub-169/sherlock/sub-169_task-sherlock_bold,35,./text_feature/sherlock,25,M,train,15
+merlin,sub-170,merlin,sub-170_task-merlin_bold,29,./fmri_pooled_features/sub-170/merlin/sub-170_task-merlin_bold,29,./text_feature/merlin,19,M,train,all
+sherlock,sub-170,sherlock,sub-170_task-sherlock_bold,35,./fmri_pooled_features/sub-170/sherlock/sub-170_task-sherlock_bold,35,./text_feature/sherlock,19,M,train,15
+"shame,seinfeld",sub-171,schema,sub-171_task-schema_run-2_bold,10,./fmri_pooled_features/sub-171/schema/sub-171_task-schema_run-2_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",21,F,train,15
+"himym,santa",sub-171,schema,sub-171_task-schema_run-4_bold,10,./fmri_pooled_features/sub-171/schema/sub-171_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",21,F,train,15
+"friends,bigbang",sub-171,schema,sub-171_task-schema_run-3_bold,10,./fmri_pooled_features/sub-171/schema/sub-171_task-schema_run-3_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",21,F,train,15
+merlin,sub-171,merlin,sub-171_task-merlin_bold,29,./fmri_pooled_features/sub-171/merlin/sub-171_task-merlin_bold,29,./text_feature/merlin,20,F,train,all
+sherlock,sub-171,sherlock,sub-171_task-sherlock_bold,35,./fmri_pooled_features/sub-171/sherlock/sub-171_task-sherlock_bold,35,./text_feature/sherlock,20,F,train,15
+merlin,sub-172,merlin,sub-172_task-merlin_bold,29,./fmri_pooled_features/sub-172/merlin/sub-172_task-merlin_bold,29,./text_feature/merlin,25,F,train,all
+sherlock,sub-172,sherlock,sub-172_task-sherlock_bold,35,./fmri_pooled_features/sub-172/sherlock/sub-172_task-sherlock_bold,35,./text_feature/sherlock,25,F,train,15
+merlin,sub-173,merlin,sub-173_task-merlin_bold,29,./fmri_pooled_features/sub-173/merlin/sub-173_task-merlin_bold,29,./text_feature/merlin,20,F,train,all
+sherlock,sub-173,sherlock,sub-173_task-sherlock_bold,35,./fmri_pooled_features/sub-173/sherlock/sub-173_task-sherlock_bold,35,./text_feature/sherlock,20,F,train,15
+merlin,sub-174,merlin,sub-174_task-merlin_bold,29,./fmri_pooled_features/sub-174/merlin/sub-174_task-merlin_bold,29,./text_feature/merlin,18,F,train,all
+sherlock,sub-174,sherlock,sub-174_task-sherlock_bold,35,./fmri_pooled_features/sub-174/sherlock/sub-174_task-sherlock_bold,35,./text_feature/sherlock,18,F,train,15
+merlin,sub-175,merlin,sub-175_task-merlin_bold,29,./fmri_pooled_features/sub-175/merlin/sub-175_task-merlin_bold,29,./text_feature/merlin,18,F,train,all
+sherlock,sub-175,sherlock,sub-175_task-sherlock_bold,35,./fmri_pooled_features/sub-175/sherlock/sub-175_task-sherlock_bold,35,./text_feature/sherlock,18,F,train,15
+merlin,sub-176,merlin,sub-176_task-merlin_bold,29,./fmri_pooled_features/sub-176/merlin/sub-176_task-merlin_bold,29,./text_feature/merlin,21,M,train,all
+sherlock,sub-176,sherlock,sub-176_task-sherlock_bold,35,./fmri_pooled_features/sub-176/sherlock/sub-176_task-sherlock_bold,35,./text_feature/sherlock,21,M,train,15
+merlin,sub-177,merlin,sub-177_task-merlin_bold,29,./fmri_pooled_features/sub-177/merlin/sub-177_task-merlin_bold,29,./text_feature/merlin,22,M,train,all
+sherlock,sub-177,sherlock,sub-177_task-sherlock_bold,35,./fmri_pooled_features/sub-177/sherlock/sub-177_task-sherlock_bold,35,./text_feature/sherlock,22,M,train,15
+merlin,sub-178,merlin,sub-178_task-merlin_bold,29,./fmri_pooled_features/sub-178/merlin/sub-178_task-merlin_bold,29,./text_feature/merlin,18,M,train,all
+sherlock,sub-178,sherlock,sub-178_task-sherlock_bold,35,./fmri_pooled_features/sub-178/sherlock/sub-178_task-sherlock_bold,35,./text_feature/sherlock,18,M,train,15
+merlin,sub-179,merlin,sub-179_task-merlin_bold,29,./fmri_pooled_features/sub-179/merlin/sub-179_task-merlin_bold,29,./text_feature/merlin,25,F,train,all
+sherlock,sub-179,sherlock,sub-179_task-sherlock_bold,35,./fmri_pooled_features/sub-179/sherlock/sub-179_task-sherlock_bold,35,./text_feature/sherlock,25,F,train,15
+merlin,sub-180,merlin,sub-180_task-merlin_bold,29,./fmri_pooled_features/sub-180/merlin/sub-180_task-merlin_bold,29,./text_feature/merlin,21,F,train,all
+sherlock,sub-180,sherlock,sub-180_task-sherlock_bold,35,./fmri_pooled_features/sub-180/sherlock/sub-180_task-sherlock_bold,35,./text_feature/sherlock,21,F,train,15
+shapesphysical,sub-181,shapesphysical,sub-181_task-shapesphysical_bold,13,./fmri_pooled_features/sub-181/shapesphysical/sub-181_task-shapesphysical_bold,13,./text_feature/shapesphysical,35,M,val,all
+"himym,santa",sub-181,schema,sub-181_task-schema_run-3_bold,10,./fmri_pooled_features/sub-181/schema/sub-181_task-schema_run-3_bold,"5,5","./text_feature/himym, ./text_feature/santa",34,M,train,15
+"friends,bigbang",sub-181,schema,sub-181_task-schema_run-4_bold,10,./fmri_pooled_features/sub-181/schema/sub-181_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",34,M,train,15
+"vinny,upintheair",sub-181,schema,sub-181_task-schema_run-2_bold,11,./fmri_pooled_features/sub-181/schema/sub-181_task-schema_run-2_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",34,M,train,15
+"shame,seinfeld",sub-181,schema,sub-181_task-schema_run-1_bold,10,./fmri_pooled_features/sub-181/schema/sub-181_task-schema_run-1_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",34,M,train,15
+shapessocial,sub-181,shapessocial,sub-181_task-shapessocial_bold,13,./fmri_pooled_features/sub-181/shapessocial/sub-181_task-shapessocial_bold,13,./text_feature/shapessocial,35,M,val,all
+"friends,bigbang",sub-182,schema,sub-182_task-schema_run-3_bold,10,./fmri_pooled_features/sub-182/schema/sub-182_task-schema_run-3_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",28,M,train,15
+"shame,seinfeld",sub-182,schema,sub-182_task-schema_run-4_bold,10,./fmri_pooled_features/sub-182/schema/sub-182_task-schema_run-4_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",28,M,train,15
+"vinny,upintheair",sub-182,schema,sub-182_task-schema_run-1_bold,11,./fmri_pooled_features/sub-182/schema/sub-182_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",28,M,train,15
+"himym,santa",sub-182,schema,sub-182_task-schema_run-2_bold,10,./fmri_pooled_features/sub-182/schema/sub-182_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",28,M,train,15
+"shame,seinfeld",sub-183,schema,sub-183_task-schema_run-4_bold,10,./fmri_pooled_features/sub-183/schema/sub-183_task-schema_run-4_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",19,F,train,15
+"friends,bigbang",sub-183,schema,sub-183_task-schema_run-2_bold,10,./fmri_pooled_features/sub-183/schema/sub-183_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",19,F,train,15
+"himym,santa",sub-183,schema,sub-183_task-schema_run-1_bold,10,./fmri_pooled_features/sub-183/schema/sub-183_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",19,F,train,15
+"friends,bigbang",sub-184,schema,sub-184_task-schema_run-3_bold,10,./fmri_pooled_features/sub-184/schema/sub-184_task-schema_run-3_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",25,F,train,15
+"himym,santa",sub-184,schema,sub-184_task-schema_run-1_bold,10,./fmri_pooled_features/sub-184/schema/sub-184_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",25,F,train,15
+"shame,seinfeld",sub-184,schema,sub-184_task-schema_run-4_bold,10,./fmri_pooled_features/sub-184/schema/sub-184_task-schema_run-4_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",25,F,train,15
+"shame,seinfeld",sub-185,schema,sub-185_task-schema_run-1_bold,10,./fmri_pooled_features/sub-185/schema/sub-185_task-schema_run-1_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",18,M,train,15
+"himym,santa",sub-185,schema,sub-185_task-schema_run-2_bold,10,./fmri_pooled_features/sub-185/schema/sub-185_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",18,M,train,15
+"vinny,upintheair",sub-185,schema,sub-185_task-schema_run-3_bold,11,./fmri_pooled_features/sub-185/schema/sub-185_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",18,M,train,15
+"friends,bigbang",sub-185,schema,sub-185_task-schema_run-4_bold,10,./fmri_pooled_features/sub-185/schema/sub-185_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",18,M,train,15
+shapesphysical,sub-186,shapesphysical,sub-186_task-shapesphysical_bold,13,./fmri_pooled_features/sub-186/shapesphysical/sub-186_task-shapesphysical_bold,13,./text_feature/shapesphysical,23,M,val,all
+"shame,seinfeld",sub-186,schema,sub-186_task-schema_run-3_bold,10,./fmri_pooled_features/sub-186/schema/sub-186_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",23,M,train,15
+"friends,bigbang",sub-186,schema,sub-186_task-schema_run-2_bold,10,./fmri_pooled_features/sub-186/schema/sub-186_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",23,M,train,15
+"himym,santa",sub-186,schema,sub-186_task-schema_run-1_bold,10,./fmri_pooled_features/sub-186/schema/sub-186_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",23,M,train,15
+shapessocial,sub-186,shapessocial,sub-186_task-shapessocial_bold,13,./fmri_pooled_features/sub-186/shapessocial/sub-186_task-shapessocial_bold,13,./text_feature/shapessocial,23,M,val,all
+"shame,seinfeld",sub-187,schema,sub-187_task-schema_run-3_bold,10,./fmri_pooled_features/sub-187/schema/sub-187_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",22,M,train,15
+"himym,santa",sub-187,schema,sub-187_task-schema_run-4_bold,10,./fmri_pooled_features/sub-187/schema/sub-187_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",22,M,train,15
+"friends,bigbang",sub-187,schema,sub-187_task-schema_run-2_bold,10,./fmri_pooled_features/sub-187/schema/sub-187_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",22,M,train,15
+"friends,bigbang",sub-188,schema,sub-188_task-schema_run-2_bold,10,./fmri_pooled_features/sub-188/schema/sub-188_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",22,M,train,15
+"vinny,upintheair",sub-188,schema,sub-188_task-schema_run-1_bold,11,./fmri_pooled_features/sub-188/schema/sub-188_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",22,M,train,15
+"shame,seinfeld",sub-188,schema,sub-188_task-schema_run-3_bold,10,./fmri_pooled_features/sub-188/schema/sub-188_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",22,M,train,15
+"himym,santa",sub-188,schema,sub-188_task-schema_run-4_bold,10,./fmri_pooled_features/sub-188/schema/sub-188_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",22,M,train,15
+"vinny,upintheair",sub-189,schema,sub-189_task-schema_run-2_bold,11,./fmri_pooled_features/sub-189/schema/sub-189_task-schema_run-2_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",29,M,train,15
+"shame,seinfeld",sub-189,schema,sub-189_task-schema_run-1_bold,10,./fmri_pooled_features/sub-189/schema/sub-189_task-schema_run-1_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",29,M,train,15
+"friends,bigbang",sub-189,schema,sub-189_task-schema_run-4_bold,10,./fmri_pooled_features/sub-189/schema/sub-189_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",29,M,train,15
+"himym,santa",sub-189,schema,sub-189_task-schema_run-3_bold,10,./fmri_pooled_features/sub-189/schema/sub-189_task-schema_run-3_bold,"5,5","./text_feature/himym, ./text_feature/santa",29,M,train,15
+21styear,sub-190,21styear,sub-190_task-21styear_bold,111,./fmri_pooled_features/sub-190/21styear/sub-190_task-21styear_bold,111,./text_feature/21styear,21,F,val,19
+shapesphysical,sub-190,shapesphysical,sub-190_task-shapesphysical_bold,13,./fmri_pooled_features/sub-190/shapesphysical/sub-190_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+"shame,seinfeld",sub-190,schema,sub-190_task-schema_run-2_bold,10,./fmri_pooled_features/sub-190/schema/sub-190_task-schema_run-2_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",21,F,train,15
+"himym,santa",sub-190,schema,sub-190_task-schema_run-1_bold,10,./fmri_pooled_features/sub-190/schema/sub-190_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",21,F,train,15
+"friends,bigbang",sub-190,schema,sub-190_task-schema_run-4_bold,10,./fmri_pooled_features/sub-190/schema/sub-190_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",21,F,train,15
+"vinny,upintheair",sub-190,schema,sub-190_task-schema_run-3_bold,11,./fmri_pooled_features/sub-190/schema/sub-190_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",21,F,train,15
+shapessocial,sub-190,shapessocial,sub-190_task-shapessocial_bold,13,./fmri_pooled_features/sub-190/shapessocial/sub-190_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-191,shapesphysical,sub-191_task-shapesphysical_bold,13,./fmri_pooled_features/sub-191/shapesphysical/sub-191_task-shapesphysical_bold,13,./text_feature/shapesphysical,18,M,val,all
+"himym,santa",sub-191,schema,sub-191_task-schema_run-1_bold,10,./fmri_pooled_features/sub-191/schema/sub-191_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",18,M,train,15
+"friends,bigbang",sub-191,schema,sub-191_task-schema_run-2_bold,10,./fmri_pooled_features/sub-191/schema/sub-191_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",18,M,train,15
+"shame,seinfeld",sub-191,schema,sub-191_task-schema_run-3_bold,10,./fmri_pooled_features/sub-191/schema/sub-191_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",18,M,train,15
+"vinny,upintheair",sub-191,schema,sub-191_task-schema_run-4_bold,11,./fmri_pooled_features/sub-191/schema/sub-191_task-schema_run-4_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",18,M,train,15
+shapessocial,sub-191,shapessocial,sub-191_task-shapessocial_bold,13,./fmri_pooled_features/sub-191/shapessocial/sub-191_task-shapessocial_bold,13,./text_feature/shapessocial,18,M,val,all
+"shame,seinfeld",sub-192,schema,sub-192_task-schema_run-2_bold,10,./fmri_pooled_features/sub-192/schema/sub-192_task-schema_run-2_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",18,F,train,15
+"vinny,upintheair",sub-192,schema,sub-192_task-schema_run-1_bold,11,./fmri_pooled_features/sub-192/schema/sub-192_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",18,F,train,15
+"friends,bigbang",sub-192,schema,sub-192_task-schema_run-3_bold,10,./fmri_pooled_features/sub-192/schema/sub-192_task-schema_run-3_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",18,F,train,15
+"himym,santa",sub-192,schema,sub-192_task-schema_run-4_bold,10,./fmri_pooled_features/sub-192/schema/sub-192_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",18,F,train,15
+"friends,bigbang",sub-193,schema,sub-193_task-schema_run-1_bold,10,./fmri_pooled_features/sub-193/schema/sub-193_task-schema_run-1_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",20,M,train,15
+"himym,santa",sub-193,schema,sub-193_task-schema_run-4_bold,10,./fmri_pooled_features/sub-193/schema/sub-193_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",20,M,train,15
+"shame,seinfeld",sub-193,schema,sub-193_task-schema_run-3_bold,10,./fmri_pooled_features/sub-193/schema/sub-193_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",20,M,train,15
+"shame,seinfeld",sub-194,schema,sub-194_task-schema_run-1_bold,10,./fmri_pooled_features/sub-194/schema/sub-194_task-schema_run-1_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",24,F,train,15
+"himym,santa",sub-194,schema,sub-194_task-schema_run-2_bold,10,./fmri_pooled_features/sub-194/schema/sub-194_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",24,F,train,15
+"vinny,upintheair",sub-194,schema,sub-194_task-schema_run-3_bold,11,./fmri_pooled_features/sub-194/schema/sub-194_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",24,F,train,15
+"friends,bigbang",sub-194,schema,sub-194_task-schema_run-4_bold,10,./fmri_pooled_features/sub-194/schema/sub-194_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",24,F,train,15
+notthefallshortscram,sub-195,notthefallshortscram,sub-195_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-195/notthefallshortscram/sub-195_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,23,F,test,15
+"shame,seinfeld",sub-195,schema,sub-195_task-schema_run-3_bold,10,./fmri_pooled_features/sub-195/schema/sub-195_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",25,F,train,15
+"himym,santa",sub-195,schema,sub-195_task-schema_run-4_bold,10,./fmri_pooled_features/sub-195/schema/sub-195_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",25,F,train,15
+"friends,bigbang",sub-195,schema,sub-195_task-schema_run-1_bold,10,./fmri_pooled_features/sub-195/schema/sub-195_task-schema_run-1_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",25,F,train,15
+notthefallintact,sub-195,notthefallintact,sub-195_task-notthefallintact_bold,18,./fmri_pooled_features/sub-195/notthefallintact/sub-195_task-notthefallintact_bold,18,./text_feature/notthefallintact,23,F,test,15
+"himym,santa",sub-196,schema,sub-196_task-schema_run-1_bold,10,./fmri_pooled_features/sub-196/schema/sub-196_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",27,F,train,15
+"shame,seinfeld",sub-196,schema,sub-196_task-schema_run-3_bold,10,./fmri_pooled_features/sub-196/schema/sub-196_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",27,F,train,15
+"friends,bigbang",sub-196,schema,sub-196_task-schema_run-4_bold,10,./fmri_pooled_features/sub-196/schema/sub-196_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",27,F,train,15
+"vinny,upintheair",sub-197,schema,sub-197_task-schema_run-4_bold,11,./fmri_pooled_features/sub-197/schema/sub-197_task-schema_run-4_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",24,M,train,15
+"friends,bigbang",sub-197,schema,sub-197_task-schema_run-2_bold,10,./fmri_pooled_features/sub-197/schema/sub-197_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",24,M,train,15
+"himym,santa",sub-197,schema,sub-197_task-schema_run-1_bold,10,./fmri_pooled_features/sub-197/schema/sub-197_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",24,M,train,15
+"shame,seinfeld",sub-197,schema,sub-197_task-schema_run-3_bold,10,./fmri_pooled_features/sub-197/schema/sub-197_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",24,M,train,15
+"shame,seinfeld",sub-198,schema,sub-198_task-schema_run-4_bold,10,./fmri_pooled_features/sub-198/schema/sub-198_task-schema_run-4_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",18,M,train,15
+"himym,santa",sub-198,schema,sub-198_task-schema_run-3_bold,10,./fmri_pooled_features/sub-198/schema/sub-198_task-schema_run-3_bold,"5,5","./text_feature/himym, ./text_feature/santa",18,M,train,15
+"friends,bigbang",sub-198,schema,sub-198_task-schema_run-1_bold,10,./fmri_pooled_features/sub-198/schema/sub-198_task-schema_run-1_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",18,M,train,15
+"vinny,upintheair",sub-198,schema,sub-198_task-schema_run-2_bold,11,./fmri_pooled_features/sub-198/schema/sub-198_task-schema_run-2_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",18,M,train,15
+"friends,bigbang",sub-199,schema,sub-199_task-schema_run-1_bold,10,./fmri_pooled_features/sub-199/schema/sub-199_task-schema_run-1_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",21,F,train,15
+"himym,santa",sub-199,schema,sub-199_task-schema_run-2_bold,10,./fmri_pooled_features/sub-199/schema/sub-199_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",21,F,train,15
+"shame,seinfeld",sub-199,schema,sub-199_task-schema_run-4_bold,10,./fmri_pooled_features/sub-199/schema/sub-199_task-schema_run-4_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",21,F,train,15
+notthefallintact,sub-199,notthefallintact,sub-199_task-notthefallintact_bold,18,./fmri_pooled_features/sub-199/notthefallintact/sub-199_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,F,test,15
+notthefalllongscram,sub-199,notthefalllongscram,sub-199_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-199/notthefalllongscram/sub-199_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,19,F,test,15
+shapesphysical,sub-200,shapesphysical,sub-200_task-shapesphysical_bold,13,./fmri_pooled_features/sub-200/shapesphysical/sub-200_task-shapesphysical_bold,13,./text_feature/shapesphysical,26,F,val,all
+"shame,seinfeld",sub-200,schema,sub-200_task-schema_run-4_bold,10,./fmri_pooled_features/sub-200/schema/sub-200_task-schema_run-4_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",26,F,train,15
+"friends,bigbang",sub-200,schema,sub-200_task-schema_run-2_bold,10,./fmri_pooled_features/sub-200/schema/sub-200_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",26,F,train,15
+"himym,santa",sub-200,schema,sub-200_task-schema_run-1_bold,10,./fmri_pooled_features/sub-200/schema/sub-200_task-schema_run-1_bold,"5,5","./text_feature/himym, ./text_feature/santa",26,F,train,15
+shapessocial,sub-200,shapessocial,sub-200_task-shapessocial_bold,13,./fmri_pooled_features/sub-200/shapessocial/sub-200_task-shapessocial_bold,13,./text_feature/shapessocial,26,F,val,all
+21styear,sub-201,21styear,sub-201_task-21styear_bold,111,./fmri_pooled_features/sub-201/21styear/sub-201_task-21styear_bold,111,./text_feature/21styear,33,M,val,19
+shapesphysical,sub-201,shapesphysical,sub-201_task-shapesphysical_bold,13,./fmri_pooled_features/sub-201/shapesphysical/sub-201_task-shapesphysical_bold,13,./text_feature/shapesphysical,33,M,val,all
+"friends,bigbang",sub-201,schema,sub-201_task-schema_run-4_bold,10,./fmri_pooled_features/sub-201/schema/sub-201_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",32,M,train,15
+"himym,santa",sub-201,schema,sub-201_task-schema_run-2_bold,10,./fmri_pooled_features/sub-201/schema/sub-201_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",32,M,train,15
+"vinny,upintheair",sub-201,schema,sub-201_task-schema_run-1_bold,11,./fmri_pooled_features/sub-201/schema/sub-201_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",32,M,train,15
+"shame,seinfeld",sub-201,schema,sub-201_task-schema_run-3_bold,10,./fmri_pooled_features/sub-201/schema/sub-201_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",32,M,train,15
+shapessocial,sub-201,shapessocial,sub-201_task-shapessocial_bold,13,./fmri_pooled_features/sub-201/shapessocial/sub-201_task-shapessocial_bold,13,./text_feature/shapessocial,33,M,val,all
+"friends,bigbang",sub-202,schema,sub-202_task-schema_run-2_bold,10,./fmri_pooled_features/sub-202/schema/sub-202_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",24,M,train,15
+"himym,santa",sub-202,schema,sub-202_task-schema_run-4_bold,10,./fmri_pooled_features/sub-202/schema/sub-202_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",24,M,train,15
+"shame,seinfeld",sub-202,schema,sub-202_task-schema_run-3_bold,10,./fmri_pooled_features/sub-202/schema/sub-202_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",24,M,train,15
+"vinny,upintheair",sub-202,schema,sub-202_task-schema_run-1_bold,11,./fmri_pooled_features/sub-202/schema/sub-202_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",24,M,train,15
+"shame,seinfeld",sub-203,schema,sub-203_task-schema_run-1_bold,10,./fmri_pooled_features/sub-203/schema/sub-203_task-schema_run-1_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",20,M,train,15
+"friends,bigbang",sub-203,schema,sub-203_task-schema_run-3_bold,10,./fmri_pooled_features/sub-203/schema/sub-203_task-schema_run-3_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",20,M,train,15
+"himym,santa",sub-203,schema,sub-203_task-schema_run-2_bold,10,./fmri_pooled_features/sub-203/schema/sub-203_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",20,M,train,15
+"himym,santa",sub-204,schema,sub-204_task-schema_run-4_bold,10,./fmri_pooled_features/sub-204/schema/sub-204_task-schema_run-4_bold,"5,5","./text_feature/himym, ./text_feature/santa",28,M,train,15
+"vinny,upintheair",sub-204,schema,sub-204_task-schema_run-1_bold,11,./fmri_pooled_features/sub-204/schema/sub-204_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",28,M,train,15
+"friends,bigbang",sub-204,schema,sub-204_task-schema_run-2_bold,10,./fmri_pooled_features/sub-204/schema/sub-204_task-schema_run-2_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",28,M,train,15
+"shame,seinfeld",sub-204,schema,sub-204_task-schema_run-3_bold,10,./fmri_pooled_features/sub-204/schema/sub-204_task-schema_run-3_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",28,M,train,15
+"friends,bigbang",sub-205,schema,sub-205_task-schema_run-4_bold,10,./fmri_pooled_features/sub-205/schema/sub-205_task-schema_run-4_bold,"5,5","./text_feature/friends, ./text_feature/bigbang",21,F,train,15
+"himym,santa",sub-205,schema,sub-205_task-schema_run-2_bold,10,./fmri_pooled_features/sub-205/schema/sub-205_task-schema_run-2_bold,"5,5","./text_feature/himym, ./text_feature/santa",21,F,train,15
+"vinny,upintheair",sub-205,schema,sub-205_task-schema_run-3_bold,11,./fmri_pooled_features/sub-205/schema/sub-205_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",21,F,train,15
+"shame,seinfeld",sub-205,schema,sub-205_task-schema_run-1_bold,10,./fmri_pooled_features/sub-205/schema/sub-205_task-schema_run-1_bold,"5,5","./text_feature/shame, ./text_feature/seinfeld",21,F,train,15
+shapesphysical,sub-206,shapesphysical,sub-206_task-shapesphysical_bold,13,./fmri_pooled_features/sub-206/shapesphysical/sub-206_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,F,val,all
+shapessocial,sub-206,shapessocial,sub-206_task-shapessocial_bold,13,./fmri_pooled_features/sub-206/shapessocial/sub-206_task-shapessocial_bold,13,./text_feature/shapessocial,20,F,val,all
+shapesphysical,sub-207,shapesphysical,sub-207_task-shapesphysical_bold,13,./fmri_pooled_features/sub-207/shapesphysical/sub-207_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,F,val,all
+shapessocial,sub-207,shapessocial,sub-207_task-shapessocial_bold,13,./fmri_pooled_features/sub-207/shapessocial/sub-207_task-shapessocial_bold,13,./text_feature/shapessocial,20,F,val,all
+shapesphysical,sub-208,shapesphysical,sub-208_task-shapesphysical_bold,13,./fmri_pooled_features/sub-208/shapesphysical/sub-208_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-208,shapessocial,sub-208_task-shapessocial_bold,13,./fmri_pooled_features/sub-208/shapessocial/sub-208_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-209,shapesphysical,sub-209_task-shapesphysical_bold,13,./fmri_pooled_features/sub-209/shapesphysical/sub-209_task-shapesphysical_bold,13,./text_feature/shapesphysical,22,M,val,all
+shapessocial,sub-209,shapessocial,sub-209_task-shapessocial_bold,13,./fmri_pooled_features/sub-209/shapessocial/sub-209_task-shapessocial_bold,13,./text_feature/shapessocial,22,M,val,all
+shapesphysical,sub-210,shapesphysical,sub-210_task-shapesphysical_bold,13,./fmri_pooled_features/sub-210/shapesphysical/sub-210_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-210,shapessocial,sub-210_task-shapessocial_bold,13,./fmri_pooled_features/sub-210/shapessocial/sub-210_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-211,shapesphysical,sub-211_task-shapesphysical_bold,13,./fmri_pooled_features/sub-211/shapesphysical/sub-211_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-211,shapessocial,sub-211_task-shapessocial_bold,13,./fmri_pooled_features/sub-211/shapessocial/sub-211_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-212,shapesphysical,sub-212_task-shapesphysical_bold,13,./fmri_pooled_features/sub-212/shapesphysical/sub-212_task-shapesphysical_bold,13,./text_feature/shapesphysical,24,F,val,all
+shapessocial,sub-212,shapessocial,sub-212_task-shapessocial_bold,13,./fmri_pooled_features/sub-212/shapessocial/sub-212_task-shapessocial_bold,13,./text_feature/shapessocial,24,F,val,all
+shapesphysical,sub-213,shapesphysical,sub-213_task-shapesphysical_bold,13,./fmri_pooled_features/sub-213/shapesphysical/sub-213_task-shapesphysical_bold,13,./text_feature/shapesphysical,29,F,val,all
+shapessocial,sub-213,shapessocial,sub-213_task-shapessocial_bold,13,./fmri_pooled_features/sub-213/shapessocial/sub-213_task-shapessocial_bold,13,./text_feature/shapessocial,29,F,val,all
+shapesphysical,sub-214,shapesphysical,sub-214_task-shapesphysical_bold,13,./fmri_pooled_features/sub-214/shapesphysical/sub-214_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-214,shapessocial,sub-214_task-shapessocial_bold,13,./fmri_pooled_features/sub-214/shapessocial/sub-214_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-215,shapesphysical,sub-215_task-shapesphysical_bold,13,./fmri_pooled_features/sub-215/shapesphysical/sub-215_task-shapesphysical_bold,13,./text_feature/shapesphysical,30,F,val,all
+shapessocial,sub-215,shapessocial,sub-215_task-shapessocial_bold,13,./fmri_pooled_features/sub-215/shapessocial/sub-215_task-shapessocial_bold,13,./text_feature/shapessocial,30,F,val,all
+shapesphysical,sub-216,shapesphysical,sub-216_task-shapesphysical_bold,13,./fmri_pooled_features/sub-216/shapesphysical/sub-216_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,M,val,all
+shapessocial,sub-216,shapessocial,sub-216_task-shapessocial_bold,13,./fmri_pooled_features/sub-216/shapessocial/sub-216_task-shapessocial_bold,13,./text_feature/shapessocial,21,M,val,all
+shapesphysical,sub-217,shapesphysical,sub-217_task-shapesphysical_bold,13,./fmri_pooled_features/sub-217/shapesphysical/sub-217_task-shapesphysical_bold,13,./text_feature/shapesphysical,19,F,val,all
+shapessocial,sub-217,shapessocial,sub-217_task-shapessocial_bold,13,./fmri_pooled_features/sub-217/shapessocial/sub-217_task-shapessocial_bold,13,./text_feature/shapessocial,19,F,val,all
+shapesphysical,sub-218,shapesphysical,sub-218_task-shapesphysical_bold,13,./fmri_pooled_features/sub-218/shapesphysical/sub-218_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-218,shapessocial,sub-218_task-shapessocial_bold,13,./fmri_pooled_features/sub-218/shapessocial/sub-218_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-219,shapesphysical,sub-219_task-shapesphysical_bold,13,./fmri_pooled_features/sub-219/shapesphysical/sub-219_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-219,shapessocial,sub-219_task-shapessocial_bold,13,./fmri_pooled_features/sub-219/shapessocial/sub-219_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-220,shapesphysical,sub-220_task-shapesphysical_bold,13,./fmri_pooled_features/sub-220/shapesphysical/sub-220_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,M,val,all
+shapessocial,sub-220,shapessocial,sub-220_task-shapessocial_bold,13,./fmri_pooled_features/sub-220/shapessocial/sub-220_task-shapessocial_bold,13,./text_feature/shapessocial,21,M,val,all
+shapesphysical,sub-221,shapesphysical,sub-221_task-shapesphysical_bold,13,./fmri_pooled_features/sub-221/shapesphysical/sub-221_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,F,val,all
+shapessocial,sub-221,shapessocial,sub-221_task-shapessocial_bold,13,./fmri_pooled_features/sub-221/shapessocial/sub-221_task-shapessocial_bold,13,./text_feature/shapessocial,20,F,val,all
+shapesphysical,sub-222,shapesphysical,sub-222_task-shapesphysical_bold,13,./fmri_pooled_features/sub-222/shapesphysical/sub-222_task-shapesphysical_bold,13,./text_feature/shapesphysical,19,F,val,all
+shapessocial,sub-222,shapessocial,sub-222_task-shapessocial_bold,13,./fmri_pooled_features/sub-222/shapessocial/sub-222_task-shapessocial_bold,13,./text_feature/shapessocial,19,F,val,all
+shapesphysical,sub-223,shapesphysical,sub-223_task-shapesphysical_bold,13,./fmri_pooled_features/sub-223/shapesphysical/sub-223_task-shapesphysical_bold,13,./text_feature/shapesphysical,22,M,val,all
+shapessocial,sub-223,shapessocial,sub-223_task-shapessocial_bold,13,./fmri_pooled_features/sub-223/shapessocial/sub-223_task-shapessocial_bold,13,./text_feature/shapessocial,22,M,val,all
+shapesphysical,sub-224,shapesphysical,sub-224_task-shapesphysical_bold,13,./fmri_pooled_features/sub-224/shapesphysical/sub-224_task-shapesphysical_bold,13,./text_feature/shapesphysical,19,F,val,all
+shapessocial,sub-224,shapessocial,sub-224_task-shapessocial_bold,13,./fmri_pooled_features/sub-224/shapessocial/sub-224_task-shapessocial_bold,13,./text_feature/shapessocial,19,F,val,all
+shapesphysical,sub-225,shapesphysical,sub-225_task-shapesphysical_bold,13,./fmri_pooled_features/sub-225/shapesphysical/sub-225_task-shapesphysical_bold,13,./text_feature/shapesphysical,22,M,val,all
+shapessocial,sub-225,shapessocial,sub-225_task-shapessocial_bold,13,./fmri_pooled_features/sub-225/shapessocial/sub-225_task-shapessocial_bold,13,./text_feature/shapessocial,22,M,val,all
+shapesphysical,sub-226,shapesphysical,sub-226_task-shapesphysical_bold,13,./fmri_pooled_features/sub-226/shapesphysical/sub-226_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-226,shapessocial,sub-226_task-shapessocial_bold,13,./fmri_pooled_features/sub-226/shapessocial/sub-226_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-227,shapesphysical,sub-227_task-shapesphysical_bold,13,./fmri_pooled_features/sub-227/shapesphysical/sub-227_task-shapesphysical_bold,13,./text_feature/shapesphysical,18,F,val,all
+shapessocial,sub-227,shapessocial,sub-227_task-shapessocial_bold,13,./fmri_pooled_features/sub-227/shapessocial/sub-227_task-shapessocial_bold,13,./text_feature/shapessocial,18,F,val,all
+shapesphysical,sub-228,shapesphysical,sub-228_task-shapesphysical_bold,13,./fmri_pooled_features/sub-228/shapesphysical/sub-228_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,F,val,all
+shapessocial,sub-228,shapessocial,sub-228_task-shapessocial_bold,13,./fmri_pooled_features/sub-228/shapessocial/sub-228_task-shapessocial_bold,13,./text_feature/shapessocial,20,F,val,all
+shapesphysical,sub-229,shapesphysical,sub-229_task-shapesphysical_bold,13,./fmri_pooled_features/sub-229/shapesphysical/sub-229_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,F,val,all
+shapessocial,sub-229,shapessocial,sub-229_task-shapessocial_bold,13,./fmri_pooled_features/sub-229/shapessocial/sub-229_task-shapessocial_bold,13,./text_feature/shapessocial,20,F,val,all
+shapesphysical,sub-230,shapesphysical,sub-230_task-shapesphysical_bold,13,./fmri_pooled_features/sub-230/shapesphysical/sub-230_task-shapesphysical_bold,13,./text_feature/shapesphysical,22,F,val,all
+shapessocial,sub-230,shapessocial,sub-230_task-shapessocial_bold,13,./fmri_pooled_features/sub-230/shapessocial/sub-230_task-shapessocial_bold,13,./text_feature/shapessocial,22,F,val,all
+shapesphysical,sub-231,shapesphysical,sub-231_task-shapesphysical_bold,13,./fmri_pooled_features/sub-231/shapesphysical/sub-231_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-231,shapessocial,sub-231_task-shapessocial_bold,13,./fmri_pooled_features/sub-231/shapessocial/sub-231_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-232,shapesphysical,sub-232_task-shapesphysical_bold,13,./fmri_pooled_features/sub-232/shapesphysical/sub-232_task-shapesphysical_bold,13,./text_feature/shapesphysical,18,F,val,all
+shapessocial,sub-232,shapessocial,sub-232_task-shapessocial_bold,13,./fmri_pooled_features/sub-232/shapessocial/sub-232_task-shapessocial_bold,13,./text_feature/shapessocial,18,F,val,all
+shapesphysical,sub-233,shapesphysical,sub-233_task-shapesphysical_bold,13,./fmri_pooled_features/sub-233/shapesphysical/sub-233_task-shapesphysical_bold,13,./text_feature/shapesphysical,18,F,val,all
+shapessocial,sub-233,shapessocial,sub-233_task-shapessocial_bold,13,./fmri_pooled_features/sub-233/shapessocial/sub-233_task-shapessocial_bold,13,./text_feature/shapessocial,18,F,val,all
+shapesphysical,sub-234,shapesphysical,sub-234_task-shapesphysical_bold,13,./fmri_pooled_features/sub-234/shapesphysical/sub-234_task-shapesphysical_bold,13,./text_feature/shapesphysical,18,M,val,all
+shapessocial,sub-234,shapessocial,sub-234_task-shapessocial_bold,13,./fmri_pooled_features/sub-234/shapessocial/sub-234_task-shapessocial_bold,13,./text_feature/shapessocial,18,M,val,all
+21styear,sub-235,21styear,sub-235_task-21styear_bold,111,./fmri_pooled_features/sub-235/21styear/sub-235_task-21styear_bold,111,./text_feature/21styear,19,F,val,19
+shapesphysical,sub-235,shapesphysical,sub-235_task-shapesphysical_bold,13,./fmri_pooled_features/sub-235/shapesphysical/sub-235_task-shapesphysical_bold,13,./text_feature/shapesphysical,19,F,val,all
+shapessocial,sub-235,shapessocial,sub-235_task-shapessocial_bold,13,./fmri_pooled_features/sub-235/shapessocial/sub-235_task-shapessocial_bold,13,./text_feature/shapessocial,19,F,val,all
+shapesphysical,sub-236,shapesphysical,sub-236_task-shapesphysical_bold,13,./fmri_pooled_features/sub-236/shapesphysical/sub-236_task-shapesphysical_bold,13,./text_feature/shapesphysical,27,F,val,all
+shapessocial,sub-236,shapessocial,sub-236_task-shapessocial_bold,13,./fmri_pooled_features/sub-236/shapessocial/sub-236_task-shapessocial_bold,13,./text_feature/shapessocial,27,F,val,all
+shapesphysical,sub-237,shapesphysical,sub-237_task-shapesphysical_bold,13,./fmri_pooled_features/sub-237/shapesphysical/sub-237_task-shapesphysical_bold,13,./text_feature/shapesphysical,32,F,val,all
+shapessocial,sub-237,shapessocial,sub-237_task-shapessocial_bold,13,./fmri_pooled_features/sub-237/shapessocial/sub-237_task-shapessocial_bold,13,./text_feature/shapessocial,32,F,val,all
+shapesphysical,sub-238,shapesphysical,sub-238_task-shapesphysical_bold,13,./fmri_pooled_features/sub-238/shapesphysical/sub-238_task-shapesphysical_bold,13,./text_feature/shapesphysical,22,F,val,all
+shapessocial,sub-238,shapessocial,sub-238_task-shapessocial_bold,13,./fmri_pooled_features/sub-238/shapessocial/sub-238_task-shapessocial_bold,13,./text_feature/shapessocial,22,F,val,all
+shapesphysical,sub-239,shapesphysical,sub-239_task-shapesphysical_bold,13,./fmri_pooled_features/sub-239/shapesphysical/sub-239_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,M,val,all
+shapessocial,sub-239,shapessocial,sub-239_task-shapessocial_bold,13,./fmri_pooled_features/sub-239/shapessocial/sub-239_task-shapessocial_bold,13,./text_feature/shapessocial,21,M,val,all
+shapesphysical,sub-240,shapesphysical,sub-240_task-shapesphysical_bold,13,./fmri_pooled_features/sub-240/shapesphysical/sub-240_task-shapesphysical_bold,13,./text_feature/shapesphysical,22,F,val,all
+shapessocial,sub-240,shapessocial,sub-240_task-shapessocial_bold,13,./fmri_pooled_features/sub-240/shapessocial/sub-240_task-shapessocial_bold,13,./text_feature/shapessocial,22,F,val,all
+shapesphysical,sub-241,shapesphysical,sub-241_task-shapesphysical_bold,13,./fmri_pooled_features/sub-241/shapesphysical/sub-241_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,M,val,all
+shapessocial,sub-241,shapessocial,sub-241_task-shapessocial_bold,13,./fmri_pooled_features/sub-241/shapessocial/sub-241_task-shapessocial_bold,13,./text_feature/shapessocial,20,M,val,all
+shapesphysical,sub-242,shapesphysical,sub-242_task-shapesphysical_bold,13,./fmri_pooled_features/sub-242/shapesphysical/sub-242_task-shapesphysical_bold,13,./text_feature/shapesphysical,25,F,val,all
+shapessocial,sub-242,shapessocial,sub-242_task-shapessocial_bold,13,./fmri_pooled_features/sub-242/shapessocial/sub-242_task-shapessocial_bold,13,./text_feature/shapessocial,25,F,val,all
+shapesphysical,sub-243,shapesphysical,sub-243_task-shapesphysical_bold,13,./fmri_pooled_features/sub-243/shapesphysical/sub-243_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,M,val,all
+shapessocial,sub-243,shapessocial,sub-243_task-shapessocial_bold,13,./fmri_pooled_features/sub-243/shapessocial/sub-243_task-shapessocial_bold,13,./text_feature/shapessocial,20,M,val,all
+21styear,sub-244,21styear,sub-244_task-21styear_bold,111,./fmri_pooled_features/sub-244/21styear/sub-244_task-21styear_bold,111,./text_feature/21styear,22,F,val,19
+shapesphysical,sub-244,shapesphysical,sub-244_task-shapesphysical_bold,13,./fmri_pooled_features/sub-244/shapesphysical/sub-244_task-shapesphysical_bold,13,./text_feature/shapesphysical,22,F,val,all
+shapessocial,sub-244,shapessocial,sub-244_task-shapessocial_bold,13,./fmri_pooled_features/sub-244/shapessocial/sub-244_task-shapessocial_bold,13,./text_feature/shapessocial,22,F,val,all
+shapesphysical,sub-245,shapesphysical,sub-245_task-shapesphysical_bold,13,./fmri_pooled_features/sub-245/shapesphysical/sub-245_task-shapesphysical_bold,13,./text_feature/shapesphysical,25,M,val,all
+shapessocial,sub-245,shapessocial,sub-245_task-shapessocial_bold,13,./fmri_pooled_features/sub-245/shapessocial/sub-245_task-shapessocial_bold,13,./text_feature/shapessocial,25,M,val,all
+shapesphysical,sub-246,shapesphysical,sub-246_task-shapesphysical_bold,13,./fmri_pooled_features/sub-246/shapesphysical/sub-246_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-246,shapessocial,sub-246_task-shapessocial_bold,13,./fmri_pooled_features/sub-246/shapessocial/sub-246_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-247,shapesphysical,sub-247_task-shapesphysical_bold,13,./fmri_pooled_features/sub-247/shapesphysical/sub-247_task-shapesphysical_bold,13,./text_feature/shapesphysical,19,F,val,all
+shapessocial,sub-247,shapessocial,sub-247_task-shapessocial_bold,13,./fmri_pooled_features/sub-247/shapessocial/sub-247_task-shapessocial_bold,13,./text_feature/shapessocial,19,F,val,all
+shapesphysical,sub-248,shapesphysical,sub-248_task-shapesphysical_bold,13,./fmri_pooled_features/sub-248/shapesphysical/sub-248_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,F,val,all
+shapessocial,sub-248,shapessocial,sub-248_task-shapessocial_bold,13,./fmri_pooled_features/sub-248/shapessocial/sub-248_task-shapessocial_bold,13,./text_feature/shapessocial,20,F,val,all
+21styear,sub-249,21styear,sub-249_task-21styear_bold,111,./fmri_pooled_features/sub-249/21styear/sub-249_task-21styear_bold,111,./text_feature/21styear,20,M,val,19
+shapesphysical,sub-249,shapesphysical,sub-249_task-shapesphysical_bold,13,./fmri_pooled_features/sub-249/shapesphysical/sub-249_task-shapesphysical_bold,13,./text_feature/shapesphysical,20,M,val,all
+shapessocial,sub-249,shapessocial,sub-249_task-shapessocial_bold,13,./fmri_pooled_features/sub-249/shapessocial/sub-249_task-shapessocial_bold,13,./text_feature/shapessocial,20,M,val,all
+shapesphysical,sub-250,shapesphysical,sub-250_task-shapesphysical_bold,13,./fmri_pooled_features/sub-250/shapesphysical/sub-250_task-shapesphysical_bold,13,./text_feature/shapesphysical,18,M,val,all
+shapessocial,sub-250,shapessocial,sub-250_task-shapessocial_bold,13,./fmri_pooled_features/sub-250/shapessocial/sub-250_task-shapessocial_bold,13,./text_feature/shapessocial,18,M,val,all
+shapesphysical,sub-251,shapesphysical,sub-251_task-shapesphysical_bold,13,./fmri_pooled_features/sub-251/shapesphysical/sub-251_task-shapesphysical_bold,13,./text_feature/shapesphysical,21,F,val,all
+shapessocial,sub-251,shapessocial,sub-251_task-shapessocial_bold,13,./fmri_pooled_features/sub-251/shapessocial/sub-251_task-shapessocial_bold,13,./text_feature/shapessocial,21,F,val,all
+shapesphysical,sub-252,shapesphysical,sub-252_task-shapesphysical_bold,13,./fmri_pooled_features/sub-252/shapesphysical/sub-252_task-shapesphysical_bold,13,./text_feature/shapesphysical,19,F,val,all
+shapessocial,sub-252,shapessocial,sub-252_task-shapessocial_bold,13,./fmri_pooled_features/sub-252/shapessocial/sub-252_task-shapessocial_bold,13,./text_feature/shapessocial,19,F,val,all
+shapesphysical,sub-253,shapesphysical,sub-253_task-shapesphysical_bold,13,./fmri_pooled_features/sub-253/shapesphysical/sub-253_task-shapesphysical_bold,13,./text_feature/shapesphysical,29,F,val,all
+shapessocial,sub-253,shapessocial,sub-253_task-shapessocial_bold,13,./fmri_pooled_features/sub-253/shapessocial/sub-253_task-shapessocial_bold,13,./text_feature/shapessocial,29,F,val,all
+21styear,sub-254,21styear,sub-254_task-21styear_bold,111,./fmri_pooled_features/sub-254/21styear/sub-254_task-21styear_bold,111,./text_feature/21styear,21,F,val,19
+21styear,sub-255,21styear,sub-255_task-21styear_bold,111,./fmri_pooled_features/sub-255/21styear/sub-255_task-21styear_bold,111,./text_feature/21styear,27,F,val,19
+21styear,sub-256,21styear,sub-256_task-21styear_bold,111,./fmri_pooled_features/sub-256/21styear/sub-256_task-21styear_bold,111,./text_feature/21styear,19,F,val,19
+21styear,sub-257,21styear,sub-257_task-21styear_bold,111,./fmri_pooled_features/sub-257/21styear/sub-257_task-21styear_bold,111,./text_feature/21styear,22,M,val,19
+21styear,sub-258,21styear,sub-258_task-21styear_bold,111,./fmri_pooled_features/sub-258/21styear/sub-258_task-21styear_bold,111,./text_feature/21styear,21,M,val,19
+21styear,sub-259,21styear,sub-259_task-21styear_bold,111,./fmri_pooled_features/sub-259/21styear/sub-259_task-21styear_bold,111,./text_feature/21styear,22,M,val,19
+21styear,sub-260,21styear,sub-260_task-21styear_bold,111,./fmri_pooled_features/sub-260/21styear/sub-260_task-21styear_bold,111,./text_feature/21styear,20,M,val,19
+21styear,sub-261,21styear,sub-261_task-21styear_bold,111,./fmri_pooled_features/sub-261/21styear/sub-261_task-21styear_bold,111,./text_feature/21styear,19,M,val,19
+21styear,sub-262,21styear,sub-262_task-21styear_bold,111,./fmri_pooled_features/sub-262/21styear/sub-262_task-21styear_bold,111,./text_feature/21styear,21,M,val,19
+21styear,sub-263,21styear,sub-263_task-21styear_bold,111,./fmri_pooled_features/sub-263/21styear/sub-263_task-21styear_bold,111,./text_feature/21styear,19,F,val,19
+21styear,sub-264,21styear,sub-264_task-21styear_bold,111,./fmri_pooled_features/sub-264/21styear/sub-264_task-21styear_bold,111,./text_feature/21styear,23,F,val,19
+21styear,sub-265,21styear,sub-265_task-21styear_bold,111,./fmri_pooled_features/sub-265/21styear/sub-265_task-21styear_bold,111,./text_feature/21styear,19,F,val,19
+black,sub-265,black,sub-265_task-black_bold,26,./fmri_pooled_features/sub-265/black/sub-265_task-black_bold,26,./text_feature/black,20,F,test,19
+bronx,sub-265,bronx,sub-265_task-bronx_bold,17,./fmri_pooled_features/sub-265/bronx/sub-265_task-bronx_bold,17,./text_feature/bronx,20,F,train,15
+forgot,sub-265,forgot,sub-265_task-forgot_bold,27,./fmri_pooled_features/sub-265/forgot/sub-265_task-forgot_bold,27,./text_feature/forgot,20,F,train,19
+piemanpni,sub-265,piemanpni,sub-265_task-piemanpni_bold,13,./fmri_pooled_features/sub-265/piemanpni/sub-265_task-piemanpni_bold,13,./text_feature/piemanpni,20,F,test,all
+21styear,sub-266,21styear,sub-266_task-21styear_bold,111,./fmri_pooled_features/sub-266/21styear/sub-266_task-21styear_bold,111,./text_feature/21styear,41,M,val,19
+21styear,sub-267,21styear,sub-267_task-21styear_bold,111,./fmri_pooled_features/sub-267/21styear/sub-267_task-21styear_bold,111,./text_feature/21styear,26,F,val,19
+black,sub-267,black,sub-267_task-black_bold,26,./fmri_pooled_features/sub-267/black/sub-267_task-black_bold,26,./text_feature/black,27,F,test,19
+bronx,sub-267,bronx,sub-267_task-bronx_bold,17,./fmri_pooled_features/sub-267/bronx/sub-267_task-bronx_bold,17,./text_feature/bronx,27,F,train,15
+forgot,sub-267,forgot,sub-267_task-forgot_bold,27,./fmri_pooled_features/sub-267/forgot/sub-267_task-forgot_bold,27,./text_feature/forgot,27,F,train,19
+piemanpni,sub-267,piemanpni,sub-267_task-piemanpni_bold,13,./fmri_pooled_features/sub-267/piemanpni/sub-267_task-piemanpni_bold,13,./text_feature/piemanpni,27,F,test,all
+21styear,sub-268,21styear,sub-268_task-21styear_bold,111,./fmri_pooled_features/sub-268/21styear/sub-268_task-21styear_bold,111,./text_feature/21styear,20,M,val,19
+notthefallintact,sub-268,notthefallintact,sub-268_task-notthefallintact_bold,18,./fmri_pooled_features/sub-268/notthefallintact/sub-268_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,M,test,15
+notthefalllongscram,sub-268,notthefalllongscram,sub-268_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-268/notthefalllongscram/sub-268_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,20,M,test,15
+21styear,sub-269,21styear,sub-269_task-21styear_bold,111,./fmri_pooled_features/sub-269/21styear/sub-269_task-21styear_bold,111,./text_feature/21styear,19,M,val,19
+21styear,sub-270,21styear,sub-270_task-21styear_bold,111,./fmri_pooled_features/sub-270/21styear/sub-270_task-21styear_bold,111,./text_feature/21styear,21,F,val,19
+21styear,sub-271,21styear,sub-271_task-21styear_bold,111,./fmri_pooled_features/sub-271/21styear/sub-271_task-21styear_bold,111,./text_feature/21styear,21,F,val,19
+black,sub-272,black,sub-272_task-black_bold,26,./fmri_pooled_features/sub-272/black/sub-272_task-black_bold,26,./text_feature/black,19,F,test,19
+bronx,sub-272,bronx,sub-272_task-bronx_bold,17,./fmri_pooled_features/sub-272/bronx/sub-272_task-bronx_bold,17,./text_feature/bronx,19,F,train,15
+forgot,sub-272,forgot,sub-272_task-forgot_bold,27,./fmri_pooled_features/sub-272/forgot/sub-272_task-forgot_bold,27,./text_feature/forgot,19,F,train,19
+piemanpni,sub-272,piemanpni,sub-272_task-piemanpni_bold,13,./fmri_pooled_features/sub-272/piemanpni/sub-272_task-piemanpni_bold,13,./text_feature/piemanpni,19,F,test,all
+black,sub-273,black,sub-273_task-black_bold,26,./fmri_pooled_features/sub-273/black/sub-273_task-black_bold,26,./text_feature/black,20,M,test,19
+bronx,sub-273,bronx,sub-273_task-bronx_bold,17,./fmri_pooled_features/sub-273/bronx/sub-273_task-bronx_bold,17,./text_feature/bronx,20,M,train,15
+forgot,sub-273,forgot,sub-273_task-forgot_bold,27,./fmri_pooled_features/sub-273/forgot/sub-273_task-forgot_bold,27,./text_feature/forgot,20,M,train,19
+piemanpni,sub-273,piemanpni,sub-273_task-piemanpni_bold,13,./fmri_pooled_features/sub-273/piemanpni/sub-273_task-piemanpni_bold,13,./text_feature/piemanpni,20,M,test,all
+black,sub-274,black,sub-274_task-black_bold,26,./fmri_pooled_features/sub-274/black/sub-274_task-black_bold,26,./text_feature/black,50,M,test,19
+bronx,sub-274,bronx,sub-274_task-bronx_bold,17,./fmri_pooled_features/sub-274/bronx/sub-274_task-bronx_bold,17,./text_feature/bronx,50,M,train,15
+forgot,sub-274,forgot,sub-274_task-forgot_bold,27,./fmri_pooled_features/sub-274/forgot/sub-274_task-forgot_bold,27,./text_feature/forgot,50,M,train,19
+piemanpni,sub-274,piemanpni,sub-274_task-piemanpni_bold,13,./fmri_pooled_features/sub-274/piemanpni/sub-274_task-piemanpni_bold,13,./text_feature/piemanpni,50,M,test,all
+black,sub-275,black,sub-275_task-black_bold,26,./fmri_pooled_features/sub-275/black/sub-275_task-black_bold,26,./text_feature/black,19,M,test,19
+bronx,sub-275,bronx,sub-275_task-bronx_bold,17,./fmri_pooled_features/sub-275/bronx/sub-275_task-bronx_bold,17,./text_feature/bronx,19,M,train,15
+forgot,sub-275,forgot,sub-275_task-forgot_bold,27,./fmri_pooled_features/sub-275/forgot/sub-275_task-forgot_bold,27,./text_feature/forgot,19,M,train,19
+piemanpni,sub-275,piemanpni,sub-275_task-piemanpni_bold,13,./fmri_pooled_features/sub-275/piemanpni/sub-275_task-piemanpni_bold,13,./text_feature/piemanpni,19,M,test,all
+black,sub-276,black,sub-276_task-black_bold,26,./fmri_pooled_features/sub-276/black/sub-276_task-black_bold,26,./text_feature/black,21,F,test,19
+bronx,sub-276,bronx,sub-276_task-bronx_bold,17,./fmri_pooled_features/sub-276/bronx/sub-276_task-bronx_bold,17,./text_feature/bronx,21,F,train,15
+forgot,sub-276,forgot,sub-276_task-forgot_bold,27,./fmri_pooled_features/sub-276/forgot/sub-276_task-forgot_bold,27,./text_feature/forgot,21,F,train,19
+piemanpni,sub-276,piemanpni,sub-276_task-piemanpni_bold,13,./fmri_pooled_features/sub-276/piemanpni/sub-276_task-piemanpni_bold,13,./text_feature/piemanpni,21,F,test,all
+black,sub-277,black,sub-277_task-black_bold,26,./fmri_pooled_features/sub-277/black/sub-277_task-black_bold,26,./text_feature/black,19,M,test,19
+bronx,sub-277,bronx,sub-277_task-bronx_bold,17,./fmri_pooled_features/sub-277/bronx/sub-277_task-bronx_bold,17,./text_feature/bronx,19,M,train,15
+forgot,sub-277,forgot,sub-277_task-forgot_bold,27,./fmri_pooled_features/sub-277/forgot/sub-277_task-forgot_bold,27,./text_feature/forgot,19,M,train,19
+piemanpni,sub-277,piemanpni,sub-277_task-piemanpni_bold,13,./fmri_pooled_features/sub-277/piemanpni/sub-277_task-piemanpni_bold,13,./text_feature/piemanpni,19,M,test,all
+bronx,sub-278,bronx,sub-278_task-bronx_bold,17,./fmri_pooled_features/sub-278/bronx/sub-278_task-bronx_bold,17,./text_feature/bronx,20,M,train,15
+piemanpni,sub-278,piemanpni,sub-278_task-piemanpni_bold,13,./fmri_pooled_features/sub-278/piemanpni/sub-278_task-piemanpni_bold,13,./text_feature/piemanpni,20,M,test,all
+black,sub-279,black,sub-279_task-black_bold,26,./fmri_pooled_features/sub-279/black/sub-279_task-black_bold,26,./text_feature/black,20,F,test,19
+bronx,sub-279,bronx,sub-279_task-bronx_bold,17,./fmri_pooled_features/sub-279/bronx/sub-279_task-bronx_bold,17,./text_feature/bronx,20,F,train,15
+forgot,sub-279,forgot,sub-279_task-forgot_bold,27,./fmri_pooled_features/sub-279/forgot/sub-279_task-forgot_bold,27,./text_feature/forgot,20,F,train,19
+piemanpni,sub-279,piemanpni,sub-279_task-piemanpni_bold,13,./fmri_pooled_features/sub-279/piemanpni/sub-279_task-piemanpni_bold,13,./text_feature/piemanpni,20,F,test,all
+black,sub-280,black,sub-280_task-black_bold,26,./fmri_pooled_features/sub-280/black/sub-280_task-black_bold,26,./text_feature/black,24,F,test,19
+bronx,sub-280,bronx,sub-280_task-bronx_bold,17,./fmri_pooled_features/sub-280/bronx/sub-280_task-bronx_bold,17,./text_feature/bronx,24,F,train,15
+forgot,sub-280,forgot,sub-280_task-forgot_bold,27,./fmri_pooled_features/sub-280/forgot/sub-280_task-forgot_bold,27,./text_feature/forgot,24,F,train,19
+black,sub-281,black,sub-281_task-black_bold,26,./fmri_pooled_features/sub-281/black/sub-281_task-black_bold,26,./text_feature/black,22,M,test,19
+bronx,sub-281,bronx,sub-281_task-bronx_bold,17,./fmri_pooled_features/sub-281/bronx/sub-281_task-bronx_bold,17,./text_feature/bronx,22,M,train,15
+forgot,sub-281,forgot,sub-281_task-forgot_bold,27,./fmri_pooled_features/sub-281/forgot/sub-281_task-forgot_bold,27,./text_feature/forgot,22,M,train,19
+piemanpni,sub-281,piemanpni,sub-281_task-piemanpni_bold,13,./fmri_pooled_features/sub-281/piemanpni/sub-281_task-piemanpni_bold,13,./text_feature/piemanpni,22,M,test,all
+black,sub-282,black,sub-282_task-black_bold,26,./fmri_pooled_features/sub-282/black/sub-282_task-black_bold,26,./text_feature/black,19,F,test,19
+bronx,sub-282,bronx,sub-282_task-bronx_bold,17,./fmri_pooled_features/sub-282/bronx/sub-282_task-bronx_bold,17,./text_feature/bronx,19,F,train,15
+forgot,sub-282,forgot,sub-282_task-forgot_bold,27,./fmri_pooled_features/sub-282/forgot/sub-282_task-forgot_bold,27,./text_feature/forgot,19,F,train,19
+piemanpni,sub-282,piemanpni,sub-282_task-piemanpni_bold,13,./fmri_pooled_features/sub-282/piemanpni/sub-282_task-piemanpni_bold,13,./text_feature/piemanpni,19,F,test,all
+black,sub-283,black,sub-283_task-black_bold,26,./fmri_pooled_features/sub-283/black/sub-283_task-black_bold,26,./text_feature/black,19,F,test,19
+bronx,sub-283,bronx,sub-283_task-bronx_bold,17,./fmri_pooled_features/sub-283/bronx/sub-283_task-bronx_bold,17,./text_feature/bronx,19,F,train,15
+forgot,sub-283,forgot,sub-283_task-forgot_bold,27,./fmri_pooled_features/sub-283/forgot/sub-283_task-forgot_bold,27,./text_feature/forgot,19,F,train,19
+piemanpni,sub-283,piemanpni,sub-283_task-piemanpni_bold,13,./fmri_pooled_features/sub-283/piemanpni/sub-283_task-piemanpni_bold,13,./text_feature/piemanpni,19,F,test,all
+black,sub-284,black,sub-284_task-black_bold,26,./fmri_pooled_features/sub-284/black/sub-284_task-black_bold,26,./text_feature/black,21,M,test,19
+bronx,sub-284,bronx,sub-284_task-bronx_bold,17,./fmri_pooled_features/sub-284/bronx/sub-284_task-bronx_bold,17,./text_feature/bronx,21,M,train,15
+forgot,sub-284,forgot,sub-284_task-forgot_bold,27,./fmri_pooled_features/sub-284/forgot/sub-284_task-forgot_bold,27,./text_feature/forgot,21,M,train,19
+piemanpni,sub-284,piemanpni,sub-284_task-piemanpni_bold,13,./fmri_pooled_features/sub-284/piemanpni/sub-284_task-piemanpni_bold,13,./text_feature/piemanpni,21,M,test,all
+black,sub-285,black,sub-285_task-black_bold,26,./fmri_pooled_features/sub-285/black/sub-285_task-black_bold,26,./text_feature/black,22,F,test,19
+bronx,sub-285,bronx,sub-285_task-bronx_bold,17,./fmri_pooled_features/sub-285/bronx/sub-285_task-bronx_bold,17,./text_feature/bronx,22,F,train,15
+forgot,sub-285,forgot,sub-285_task-forgot_bold,27,./fmri_pooled_features/sub-285/forgot/sub-285_task-forgot_bold,27,./text_feature/forgot,22,F,train,19
+piemanpni,sub-285,piemanpni,sub-285_task-piemanpni_bold,13,./fmri_pooled_features/sub-285/piemanpni/sub-285_task-piemanpni_bold,13,./text_feature/piemanpni,22,F,test,all
+black,sub-286,black,sub-286_task-black_bold,26,./fmri_pooled_features/sub-286/black/sub-286_task-black_bold,26,./text_feature/black,18,F,test,19
+bronx,sub-286,bronx,sub-286_task-bronx_bold,17,./fmri_pooled_features/sub-286/bronx/sub-286_task-bronx_bold,17,./text_feature/bronx,18,F,train,15
+forgot,sub-286,forgot,sub-286_task-forgot_bold,27,./fmri_pooled_features/sub-286/forgot/sub-286_task-forgot_bold,27,./text_feature/forgot,18,F,train,19
+piemanpni,sub-286,piemanpni,sub-286_task-piemanpni_bold,13,./fmri_pooled_features/sub-286/piemanpni/sub-286_task-piemanpni_bold,13,./text_feature/piemanpni,18,F,test,all
+black,sub-287,black,sub-287_task-black_bold,26,./fmri_pooled_features/sub-287/black/sub-287_task-black_bold,26,./text_feature/black,21,F,test,19
+bronx,sub-287,bronx,sub-287_task-bronx_bold,17,./fmri_pooled_features/sub-287/bronx/sub-287_task-bronx_bold,17,./text_feature/bronx,21,F,train,15
+forgot,sub-287,forgot,sub-287_task-forgot_bold,27,./fmri_pooled_features/sub-287/forgot/sub-287_task-forgot_bold,27,./text_feature/forgot,21,F,train,19
+piemanpni,sub-287,piemanpni,sub-287_task-piemanpni_bold,13,./fmri_pooled_features/sub-287/piemanpni/sub-287_task-piemanpni_bold,13,./text_feature/piemanpni,21,F,test,all
+black,sub-288,black,sub-288_task-black_bold,26,./fmri_pooled_features/sub-288/black/sub-288_task-black_bold,26,./text_feature/black,25,F,test,19
+bronx,sub-288,bronx,sub-288_task-bronx_bold,17,./fmri_pooled_features/sub-288/bronx/sub-288_task-bronx_bold,17,./text_feature/bronx,25,F,train,15
+forgot,sub-288,forgot,sub-288_task-forgot_bold,27,./fmri_pooled_features/sub-288/forgot/sub-288_task-forgot_bold,27,./text_feature/forgot,25,F,train,19
+piemanpni,sub-288,piemanpni,sub-288_task-piemanpni_bold,13,./fmri_pooled_features/sub-288/piemanpni/sub-288_task-piemanpni_bold,13,./text_feature/piemanpni,25,F,test,all
+black,sub-289,black,sub-289_task-black_bold,26,./fmri_pooled_features/sub-289/black/sub-289_task-black_bold,26,./text_feature/black,18,F,test,19
+bronx,sub-289,bronx,sub-289_task-bronx_bold,17,./fmri_pooled_features/sub-289/bronx/sub-289_task-bronx_bold,17,./text_feature/bronx,18,F,train,15
+forgot,sub-289,forgot,sub-289_task-forgot_bold,27,./fmri_pooled_features/sub-289/forgot/sub-289_task-forgot_bold,27,./text_feature/forgot,18,F,train,19
+piemanpni,sub-289,piemanpni,sub-289_task-piemanpni_bold,13,./fmri_pooled_features/sub-289/piemanpni/sub-289_task-piemanpni_bold,13,./text_feature/piemanpni,18,F,test,all
+black,sub-290,black,sub-290_task-black_bold,26,./fmri_pooled_features/sub-290/black/sub-290_task-black_bold,26,./text_feature/black,26,F,test,19
+bronx,sub-290,bronx,sub-290_task-bronx_bold,17,./fmri_pooled_features/sub-290/bronx/sub-290_task-bronx_bold,17,./text_feature/bronx,26,F,train,15
+forgot,sub-290,forgot,sub-290_task-forgot_bold,27,./fmri_pooled_features/sub-290/forgot/sub-290_task-forgot_bold,27,./text_feature/forgot,26,F,train,19
+piemanpni,sub-290,piemanpni,sub-290_task-piemanpni_bold,13,./fmri_pooled_features/sub-290/piemanpni/sub-290_task-piemanpni_bold,13,./text_feature/piemanpni,26,F,test,all
+black,sub-291,black,sub-291_task-black_bold,26,./fmri_pooled_features/sub-291/black/sub-291_task-black_bold,26,./text_feature/black,18,F,test,19
+bronx,sub-291,bronx,sub-291_task-bronx_bold,17,./fmri_pooled_features/sub-291/bronx/sub-291_task-bronx_bold,17,./text_feature/bronx,18,F,train,15
+forgot,sub-291,forgot,sub-291_task-forgot_bold,27,./fmri_pooled_features/sub-291/forgot/sub-291_task-forgot_bold,27,./text_feature/forgot,18,F,train,19
+piemanpni,sub-291,piemanpni,sub-291_task-piemanpni_bold,13,./fmri_pooled_features/sub-291/piemanpni/sub-291_task-piemanpni_bold,13,./text_feature/piemanpni,18,F,test,all
+black,sub-292,black,sub-292_task-black_bold,26,./fmri_pooled_features/sub-292/black/sub-292_task-black_bold,26,./text_feature/black,18,M,test,19
+bronx,sub-292,bronx,sub-292_task-bronx_bold,17,./fmri_pooled_features/sub-292/bronx/sub-292_task-bronx_bold,17,./text_feature/bronx,18,M,train,15
+forgot,sub-292,forgot,sub-292_task-forgot_bold,27,./fmri_pooled_features/sub-292/forgot/sub-292_task-forgot_bold,27,./text_feature/forgot,18,M,train,19
+piemanpni,sub-292,piemanpni,sub-292_task-piemanpni_bold,13,./fmri_pooled_features/sub-292/piemanpni/sub-292_task-piemanpni_bold,13,./text_feature/piemanpni,18,M,test,all
+black,sub-293,black,sub-293_task-black_bold,26,./fmri_pooled_features/sub-293/black/sub-293_task-black_bold,26,./text_feature/black,20,F,test,19
+bronx,sub-293,bronx,sub-293_task-bronx_bold,17,./fmri_pooled_features/sub-293/bronx/sub-293_task-bronx_bold,17,./text_feature/bronx,20,F,train,15
+forgot,sub-293,forgot,sub-293_task-forgot_bold,27,./fmri_pooled_features/sub-293/forgot/sub-293_task-forgot_bold,27,./text_feature/forgot,20,F,train,19
+piemanpni,sub-293,piemanpni,sub-293_task-piemanpni_bold,13,./fmri_pooled_features/sub-293/piemanpni/sub-293_task-piemanpni_bold,13,./text_feature/piemanpni,20,F,test,all
+black,sub-294,black,sub-294_task-black_bold,26,./fmri_pooled_features/sub-294/black/sub-294_task-black_bold,26,./text_feature/black,19,F,test,19
+bronx,sub-294,bronx,sub-294_task-bronx_bold,17,./fmri_pooled_features/sub-294/bronx/sub-294_task-bronx_bold,17,./text_feature/bronx,19,F,train,15
+forgot,sub-294,forgot,sub-294_task-forgot_bold,27,./fmri_pooled_features/sub-294/forgot/sub-294_task-forgot_bold,27,./text_feature/forgot,19,F,train,19
+piemanpni,sub-294,piemanpni,sub-294_task-piemanpni_bold,13,./fmri_pooled_features/sub-294/piemanpni/sub-294_task-piemanpni_bold,13,./text_feature/piemanpni,19,F,test,all
+black,sub-295,black,sub-295_task-black_bold,26,./fmri_pooled_features/sub-295/black/sub-295_task-black_bold,26,./text_feature/black,18,F,test,19
+bronx,sub-295,bronx,sub-295_task-bronx_bold,17,./fmri_pooled_features/sub-295/bronx/sub-295_task-bronx_bold,17,./text_feature/bronx,18,F,train,15
+forgot,sub-295,forgot,sub-295_task-forgot_bold,27,./fmri_pooled_features/sub-295/forgot/sub-295_task-forgot_bold,27,./text_feature/forgot,18,F,train,19
+piemanpni,sub-295,piemanpni,sub-295_task-piemanpni_bold,13,./fmri_pooled_features/sub-295/piemanpni/sub-295_task-piemanpni_bold,13,./text_feature/piemanpni,18,F,test,all
+black,sub-296,black,sub-296_task-black_bold,26,./fmri_pooled_features/sub-296/black/sub-296_task-black_bold,26,./text_feature/black,38,F,test,19
+bronx,sub-296,bronx,sub-296_task-bronx_bold,17,./fmri_pooled_features/sub-296/bronx/sub-296_task-bronx_bold,17,./text_feature/bronx,38,F,train,15
+forgot,sub-296,forgot,sub-296_task-forgot_bold,27,./fmri_pooled_features/sub-296/forgot/sub-296_task-forgot_bold,27,./text_feature/forgot,38,F,train,19
+piemanpni,sub-296,piemanpni,sub-296_task-piemanpni_bold,13,./fmri_pooled_features/sub-296/piemanpni/sub-296_task-piemanpni_bold,13,./text_feature/piemanpni,38,F,test,all
+black,sub-297,black,sub-297_task-black_bold,26,./fmri_pooled_features/sub-297/black/sub-297_task-black_bold,26,./text_feature/black,21,F,test,19
+bronx,sub-297,bronx,sub-297_task-bronx_bold,17,./fmri_pooled_features/sub-297/bronx/sub-297_task-bronx_bold,17,./text_feature/bronx,21,F,train,15
+forgot,sub-297,forgot,sub-297_task-forgot_bold,27,./fmri_pooled_features/sub-297/forgot/sub-297_task-forgot_bold,27,./text_feature/forgot,21,F,train,19
+piemanpni,sub-297,piemanpni,sub-297_task-piemanpni_bold,13,./fmri_pooled_features/sub-297/piemanpni/sub-297_task-piemanpni_bold,13,./text_feature/piemanpni,21,F,test,all
+black,sub-298,black,sub-298_task-black_bold,26,./fmri_pooled_features/sub-298/black/sub-298_task-black_bold,26,./text_feature/black,26,M,test,19
+bronx,sub-298,bronx,sub-298_task-bronx_bold,17,./fmri_pooled_features/sub-298/bronx/sub-298_task-bronx_bold,17,./text_feature/bronx,26,M,train,15
+forgot,sub-298,forgot,sub-298_task-forgot_bold,27,./fmri_pooled_features/sub-298/forgot/sub-298_task-forgot_bold,27,./text_feature/forgot,26,M,train,19
+piemanpni,sub-298,piemanpni,sub-298_task-piemanpni_bold,13,./fmri_pooled_features/sub-298/piemanpni/sub-298_task-piemanpni_bold,13,./text_feature/piemanpni,26,M,test,all
+black,sub-299,black,sub-299_task-black_bold,26,./fmri_pooled_features/sub-299/black/sub-299_task-black_bold,26,./text_feature/black,18,F,test,19
+bronx,sub-299,bronx,sub-299_task-bronx_bold,17,./fmri_pooled_features/sub-299/bronx/sub-299_task-bronx_bold,17,./text_feature/bronx,18,F,train,15
+forgot,sub-299,forgot,sub-299_task-forgot_bold,27,./fmri_pooled_features/sub-299/forgot/sub-299_task-forgot_bold,27,./text_feature/forgot,18,F,train,19
+piemanpni,sub-299,piemanpni,sub-299_task-piemanpni_bold,13,./fmri_pooled_features/sub-299/piemanpni/sub-299_task-piemanpni_bold,13,./text_feature/piemanpni,18,F,test,all
+black,sub-300,black,sub-300_task-black_bold,26,./fmri_pooled_features/sub-300/black/sub-300_task-black_bold,26,./text_feature/black,53,M,test,19
+bronx,sub-300,bronx,sub-300_task-bronx_bold,17,./fmri_pooled_features/sub-300/bronx/sub-300_task-bronx_bold,17,./text_feature/bronx,53,M,train,15
+forgot,sub-300,forgot,sub-300_task-forgot_bold,27,./fmri_pooled_features/sub-300/forgot/sub-300_task-forgot_bold,27,./text_feature/forgot,53,M,train,19
+piemanpni,sub-300,piemanpni,sub-300_task-piemanpni_bold,13,./fmri_pooled_features/sub-300/piemanpni/sub-300_task-piemanpni_bold,13,./text_feature/piemanpni,53,M,test,all
+black,sub-301,black,sub-301_task-black_bold,26,./fmri_pooled_features/sub-301/black/sub-301_task-black_bold,26,./text_feature/black,19,F,test,19
+bronx,sub-301,bronx,sub-301_task-bronx_bold,17,./fmri_pooled_features/sub-301/bronx/sub-301_task-bronx_bold,17,./text_feature/bronx,19,F,train,15
+forgot,sub-301,forgot,sub-301_task-forgot_bold,27,./fmri_pooled_features/sub-301/forgot/sub-301_task-forgot_bold,27,./text_feature/forgot,19,F,train,19
+piemanpni,sub-301,piemanpni,sub-301_task-piemanpni_bold,13,./fmri_pooled_features/sub-301/piemanpni/sub-301_task-piemanpni_bold,13,./text_feature/piemanpni,19,F,test,all
+black,sub-302,black,sub-302_task-black_bold,26,./fmri_pooled_features/sub-302/black/sub-302_task-black_bold,26,./text_feature/black,18,F,test,19
+bronx,sub-302,bronx,sub-302_task-bronx_bold,17,./fmri_pooled_features/sub-302/bronx/sub-302_task-bronx_bold,17,./text_feature/bronx,18,F,train,15
+forgot,sub-302,forgot,sub-302_task-forgot_bold,27,./fmri_pooled_features/sub-302/forgot/sub-302_task-forgot_bold,27,./text_feature/forgot,18,F,train,19
+piemanpni,sub-302,piemanpni,sub-302_task-piemanpni_bold,13,./fmri_pooled_features/sub-302/piemanpni/sub-302_task-piemanpni_bold,13,./text_feature/piemanpni,18,F,test,all
+black,sub-303,black,sub-303_task-black_bold,26,./fmri_pooled_features/sub-303/black/sub-303_task-black_bold,26,./text_feature/black,21,F,test,19
+bronx,sub-303,bronx,sub-303_task-bronx_bold,17,./fmri_pooled_features/sub-303/bronx/sub-303_task-bronx_bold,17,./text_feature/bronx,21,F,train,15
+forgot,sub-303,forgot,sub-303_task-forgot_bold,27,./fmri_pooled_features/sub-303/forgot/sub-303_task-forgot_bold,27,./text_feature/forgot,21,F,train,19
+piemanpni,sub-303,piemanpni,sub-303_task-piemanpni_bold,13,./fmri_pooled_features/sub-303/piemanpni/sub-303_task-piemanpni_bold,13,./text_feature/piemanpni,21,F,test,all
+black,sub-304,black,sub-304_task-black_bold,26,./fmri_pooled_features/sub-304/black/sub-304_task-black_bold,26,./text_feature/black,25,M,test,19
+bronx,sub-304,bronx,sub-304_task-bronx_bold,17,./fmri_pooled_features/sub-304/bronx/sub-304_task-bronx_bold,17,./text_feature/bronx,25,M,train,15
+forgot,sub-304,forgot,sub-304_task-forgot_bold,27,./fmri_pooled_features/sub-304/forgot/sub-304_task-forgot_bold,27,./text_feature/forgot,25,M,train,19
+piemanpni,sub-304,piemanpni,sub-304_task-piemanpni_bold,13,./fmri_pooled_features/sub-304/piemanpni/sub-304_task-piemanpni_bold,13,./text_feature/piemanpni,25,M,test,all
+black,sub-305,black,sub-305_task-black_bold,26,./fmri_pooled_features/sub-305/black/sub-305_task-black_bold,26,./text_feature/black,20,M,test,19
+bronx,sub-305,bronx,sub-305_task-bronx_bold,17,./fmri_pooled_features/sub-305/bronx/sub-305_task-bronx_bold,17,./text_feature/bronx,20,M,train,15
+forgot,sub-305,forgot,sub-305_task-forgot_bold,27,./fmri_pooled_features/sub-305/forgot/sub-305_task-forgot_bold,27,./text_feature/forgot,20,M,train,19
+piemanpni,sub-305,piemanpni,sub-305_task-piemanpni_bold,13,./fmri_pooled_features/sub-305/piemanpni/sub-305_task-piemanpni_bold,13,./text_feature/piemanpni,20,M,test,all
+black,sub-306,black,sub-306_task-black_bold,26,./fmri_pooled_features/sub-306/black/sub-306_task-black_bold,26,./text_feature/black,18,F,test,19
+bronx,sub-306,bronx,sub-306_task-bronx_bold,17,./fmri_pooled_features/sub-306/bronx/sub-306_task-bronx_bold,17,./text_feature/bronx,18,F,train,15
+forgot,sub-306,forgot,sub-306_task-forgot_bold,27,./fmri_pooled_features/sub-306/forgot/sub-306_task-forgot_bold,27,./text_feature/forgot,18,F,train,19
+piemanpni,sub-306,piemanpni,sub-306_task-piemanpni_bold,13,./fmri_pooled_features/sub-306/piemanpni/sub-306_task-piemanpni_bold,13,./text_feature/piemanpni,18,F,test,all
+black,sub-307,black,sub-307_task-black_bold,26,./fmri_pooled_features/sub-307/black/sub-307_task-black_bold,26,./text_feature/black,20,F,test,19
+bronx,sub-307,bronx,sub-307_task-bronx_bold,17,./fmri_pooled_features/sub-307/bronx/sub-307_task-bronx_bold,17,./text_feature/bronx,20,F,train,15
+forgot,sub-307,forgot,sub-307_task-forgot_bold,27,./fmri_pooled_features/sub-307/forgot/sub-307_task-forgot_bold,27,./text_feature/forgot,20,F,train,19
+piemanpni,sub-307,piemanpni,sub-307_task-piemanpni_bold,13,./fmri_pooled_features/sub-307/piemanpni/sub-307_task-piemanpni_bold,13,./text_feature/piemanpni,20,F,test,all
+black,sub-308,black,sub-308_task-black_bold,26,./fmri_pooled_features/sub-308/black/sub-308_task-black_bold,26,./text_feature/black,22,M,test,19
+bronx,sub-308,bronx,sub-308_task-bronx_bold,17,./fmri_pooled_features/sub-308/bronx/sub-308_task-bronx_bold,17,./text_feature/bronx,22,M,train,15
+forgot,sub-308,forgot,sub-308_task-forgot_bold,27,./fmri_pooled_features/sub-308/forgot/sub-308_task-forgot_bold,27,./text_feature/forgot,22,M,train,19
+piemanpni,sub-308,piemanpni,sub-308_task-piemanpni_bold,13,./fmri_pooled_features/sub-308/piemanpni/sub-308_task-piemanpni_bold,13,./text_feature/piemanpni,22,M,test,all
+black,sub-309,black,sub-309_task-black_bold,26,./fmri_pooled_features/sub-309/black/sub-309_task-black_bold,26,./text_feature/black,21,F,test,19
+bronx,sub-309,bronx,sub-309_task-bronx_bold,17,./fmri_pooled_features/sub-309/bronx/sub-309_task-bronx_bold,17,./text_feature/bronx,21,F,train,15
+forgot,sub-309,forgot,sub-309_task-forgot_bold,27,./fmri_pooled_features/sub-309/forgot/sub-309_task-forgot_bold,27,./text_feature/forgot,21,F,train,19
+piemanpni,sub-309,piemanpni,sub-309_task-piemanpni_bold,13,./fmri_pooled_features/sub-309/piemanpni/sub-309_task-piemanpni_bold,13,./text_feature/piemanpni,21,F,test,all
+black,sub-310,black,sub-310_task-black_bold,26,./fmri_pooled_features/sub-310/black/sub-310_task-black_bold,26,./text_feature/black,28,F,test,19
+bronx,sub-310,bronx,sub-310_task-bronx_bold,17,./fmri_pooled_features/sub-310/bronx/sub-310_task-bronx_bold,17,./text_feature/bronx,28,F,train,15
+forgot,sub-310,forgot,sub-310_task-forgot_bold,27,./fmri_pooled_features/sub-310/forgot/sub-310_task-forgot_bold,27,./text_feature/forgot,28,F,train,19
+piemanpni,sub-310,piemanpni,sub-310_task-piemanpni_bold,13,./fmri_pooled_features/sub-310/piemanpni/sub-310_task-piemanpni_bold,13,./text_feature/piemanpni,28,F,test,all
+black,sub-311,black,sub-311_task-black_bold,26,./fmri_pooled_features/sub-311/black/sub-311_task-black_bold,26,./text_feature/black,22,F,test,19
+bronx,sub-311,bronx,sub-311_task-bronx_bold,17,./fmri_pooled_features/sub-311/bronx/sub-311_task-bronx_bold,17,./text_feature/bronx,22,F,train,15
+forgot,sub-311,forgot,sub-311_task-forgot_bold,27,./fmri_pooled_features/sub-311/forgot/sub-311_task-forgot_bold,27,./text_feature/forgot,22,F,train,19
+piemanpni,sub-311,piemanpni,sub-311_task-piemanpni_bold,13,./fmri_pooled_features/sub-311/piemanpni/sub-311_task-piemanpni_bold,13,./text_feature/piemanpni,22,F,test,all
+black,sub-312,black,sub-312_task-black_bold,26,./fmri_pooled_features/sub-312/black/sub-312_task-black_bold,26,./text_feature/black,19,F,test,19
+bronx,sub-312,bronx,sub-312_task-bronx_bold,17,./fmri_pooled_features/sub-312/bronx/sub-312_task-bronx_bold,17,./text_feature/bronx,19,F,train,15
+forgot,sub-312,forgot,sub-312_task-forgot_bold,27,./fmri_pooled_features/sub-312/forgot/sub-312_task-forgot_bold,27,./text_feature/forgot,19,F,train,19
+piemanpni,sub-312,piemanpni,sub-312_task-piemanpni_bold,13,./fmri_pooled_features/sub-312/piemanpni/sub-312_task-piemanpni_bold,13,./text_feature/piemanpni,19,F,test,all
+black,sub-313,black,sub-313_task-black_bold,26,./fmri_pooled_features/sub-313/black/sub-313_task-black_bold,26,./text_feature/black,26,F,test,19
+bronx,sub-313,bronx,sub-313_task-bronx_bold,17,./fmri_pooled_features/sub-313/bronx/sub-313_task-bronx_bold,17,./text_feature/bronx,26,F,train,15
+forgot,sub-313,forgot,sub-313_task-forgot_bold,27,./fmri_pooled_features/sub-313/forgot/sub-313_task-forgot_bold,27,./text_feature/forgot,26,F,train,19
+piemanpni,sub-313,piemanpni,sub-313_task-piemanpni_bold,13,./fmri_pooled_features/sub-313/piemanpni/sub-313_task-piemanpni_bold,13,./text_feature/piemanpni,26,F,test,all
+black,sub-314,black,sub-314_task-black_bold,26,./fmri_pooled_features/sub-314/black/sub-314_task-black_bold,26,./text_feature/black,25,F,test,19
+bronx,sub-314,bronx,sub-314_task-bronx_bold,17,./fmri_pooled_features/sub-314/bronx/sub-314_task-bronx_bold,17,./text_feature/bronx,25,F,train,15
+forgot,sub-314,forgot,sub-314_task-forgot_bold,27,./fmri_pooled_features/sub-314/forgot/sub-314_task-forgot_bold,27,./text_feature/forgot,25,F,train,19
+piemanpni,sub-314,piemanpni,sub-314_task-piemanpni_bold,13,./fmri_pooled_features/sub-314/piemanpni/sub-314_task-piemanpni_bold,13,./text_feature/piemanpni,25,F,test,all
+black,sub-315,black,sub-315_task-black_bold,26,./fmri_pooled_features/sub-315/black/sub-315_task-black_bold,26,./text_feature/black,35,M,test,19
+bronx,sub-315,bronx,sub-315_task-bronx_bold,17,./fmri_pooled_features/sub-315/bronx/sub-315_task-bronx_bold,17,./text_feature/bronx,35,M,train,15
+forgot,sub-315,forgot,sub-315_task-forgot_bold,27,./fmri_pooled_features/sub-315/forgot/sub-315_task-forgot_bold,27,./text_feature/forgot,35,M,train,19
+piemanpni,sub-315,piemanpni,sub-315_task-piemanpni_bold,13,./fmri_pooled_features/sub-315/piemanpni/sub-315_task-piemanpni_bold,13,./text_feature/piemanpni,35,M,test,all
+notthefallintact,sub-316,notthefallintact,sub-316_task-notthefallintact_bold,18,./fmri_pooled_features/sub-316/notthefallintact/sub-316_task-notthefallintact_bold,18,./text_feature/notthefallintact,18,F,test,15
+notthefallintact,sub-317,notthefallintact,sub-317_task-notthefallintact_bold,18,./fmri_pooled_features/sub-317/notthefallintact/sub-317_task-notthefallintact_bold,18,./text_feature/notthefallintact,18,F,test,15
+notthefallintact,sub-318,notthefallintact,sub-318_task-notthefallintact_bold,18,./fmri_pooled_features/sub-318/notthefallintact/sub-318_task-notthefallintact_bold,18,./text_feature/notthefallintact,25,F,test,15
+notthefallintact,sub-319,notthefallintact,sub-319_task-notthefallintact_bold,18,./fmri_pooled_features/sub-319/notthefallintact/sub-319_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,F,test,15
+notthefallintact,sub-320,notthefallintact,sub-320_task-notthefallintact_bold,18,./fmri_pooled_features/sub-320/notthefallintact/sub-320_task-notthefallintact_bold,18,./text_feature/notthefallintact,21,M,test,15
+notthefallintact,sub-321,notthefallintact,sub-321_task-notthefallintact_bold,18,./fmri_pooled_features/sub-321/notthefallintact/sub-321_task-notthefallintact_bold,18,./text_feature/notthefallintact,22,M,test,15
+notthefallintact,sub-322,notthefallintact,sub-322_task-notthefallintact_bold,18,./fmri_pooled_features/sub-322/notthefallintact/sub-322_task-notthefallintact_bold,18,./text_feature/notthefallintact,25,F,test,15
+notthefallintact,sub-323,notthefallintact,sub-323_task-notthefallintact_bold,18,./fmri_pooled_features/sub-323/notthefallintact/sub-323_task-notthefallintact_bold,18,./text_feature/notthefallintact,22,F,test,15
+notthefallshortscram,sub-324,notthefallshortscram,sub-324_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-324/notthefallshortscram/sub-324_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,22,F,test,15
+notthefallintact,sub-324,notthefallintact,sub-324_task-notthefallintact_bold,18,./fmri_pooled_features/sub-324/notthefallintact/sub-324_task-notthefallintact_bold,18,./text_feature/notthefallintact,22,F,test,15
+notthefallshortscram,sub-325,notthefallshortscram,sub-325_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-325/notthefallshortscram/sub-325_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,18,F,test,15
+notthefallintact,sub-325,notthefallintact,sub-325_task-notthefallintact_bold,18,./fmri_pooled_features/sub-325/notthefallintact/sub-325_task-notthefallintact_bold,18,./text_feature/notthefallintact,18,F,test,15
+notthefallintact,sub-326,notthefallintact,sub-326_task-notthefallintact_bold,18,./fmri_pooled_features/sub-326/notthefallintact/sub-326_task-notthefallintact_bold,18,./text_feature/notthefallintact,24,F,test,15
+notthefalllongscram,sub-326,notthefalllongscram,sub-326_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-326/notthefalllongscram/sub-326_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,24,F,test,15
+notthefallintact,sub-327,notthefallintact,sub-327_task-notthefallintact_bold,18,./fmri_pooled_features/sub-327/notthefallintact/sub-327_task-notthefallintact_bold,18,./text_feature/notthefallintact,25,F,test,15
+notthefalllongscram,sub-327,notthefalllongscram,sub-327_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-327/notthefalllongscram/sub-327_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,25,F,test,15
+notthefallintact,sub-328,notthefallintact,sub-328_task-notthefallintact_bold,18,./fmri_pooled_features/sub-328/notthefallintact/sub-328_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,M,test,15
+notthefalllongscram,sub-328,notthefalllongscram,sub-328_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-328/notthefalllongscram/sub-328_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,19,M,test,15
+notthefallshortscram,sub-329,notthefallshortscram,sub-329_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-329/notthefallshortscram/sub-329_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,19,F,test,15
+notthefallintact,sub-329,notthefallintact,sub-329_task-notthefallintact_bold,18,./fmri_pooled_features/sub-329/notthefallintact/sub-329_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,F,test,15
+notthefallintact,sub-330,notthefallintact,sub-330_task-notthefallintact_bold,18,./fmri_pooled_features/sub-330/notthefallintact/sub-330_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,M,test,15
+notthefalllongscram,sub-330,notthefalllongscram,sub-330_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-330/notthefalllongscram/sub-330_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,19,M,test,15
+notthefallintact,sub-331,notthefallintact,sub-331_task-notthefallintact_bold,18,./fmri_pooled_features/sub-331/notthefallintact/sub-331_task-notthefallintact_bold,18,./text_feature/notthefallintact,21,F,test,15
+notthefalllongscram,sub-331,notthefalllongscram,sub-331_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-331/notthefalllongscram/sub-331_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,21,F,test,15
+notthefallshortscram,sub-332,notthefallshortscram,sub-332_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-332/notthefallshortscram/sub-332_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,20,F,test,15
+notthefallintact,sub-332,notthefallintact,sub-332_task-notthefallintact_bold,18,./fmri_pooled_features/sub-332/notthefallintact/sub-332_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,F,test,15
+notthefallshortscram,sub-333,notthefallshortscram,sub-333_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-333/notthefallshortscram/sub-333_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,25,F,test,15
+notthefallintact,sub-333,notthefallintact,sub-333_task-notthefallintact_bold,18,./fmri_pooled_features/sub-333/notthefallintact/sub-333_task-notthefallintact_bold,18,./text_feature/notthefallintact,25,F,test,15
+notthefallintact,sub-334,notthefallintact,sub-334_task-notthefallintact_bold,18,./fmri_pooled_features/sub-334/notthefallintact/sub-334_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,M,test,15
+notthefalllongscram,sub-334,notthefalllongscram,sub-334_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-334/notthefalllongscram/sub-334_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,19,M,test,15
+notthefallintact,sub-335,notthefallintact,sub-335_task-notthefallintact_bold,18,./fmri_pooled_features/sub-335/notthefallintact/sub-335_task-notthefallintact_bold,18,./text_feature/notthefallintact,29,F,test,15
+notthefalllongscram,sub-335,notthefalllongscram,sub-335_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-335/notthefalllongscram/sub-335_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,29,F,test,15
+notthefallshortscram,sub-336,notthefallshortscram,sub-336_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-336/notthefallshortscram/sub-336_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,22,F,test,15
+notthefallintact,sub-336,notthefallintact,sub-336_task-notthefallintact_bold,18,./fmri_pooled_features/sub-336/notthefallintact/sub-336_task-notthefallintact_bold,18,./text_feature/notthefallintact,22,F,test,15
+notthefallintact,sub-337,notthefallintact,sub-337_task-notthefallintact_bold,18,./fmri_pooled_features/sub-337/notthefallintact/sub-337_task-notthefallintact_bold,18,./text_feature/notthefallintact,26,F,test,15
+notthefalllongscram,sub-337,notthefalllongscram,sub-337_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-337/notthefalllongscram/sub-337_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,26,F,test,15
+notthefallshortscram,sub-338,notthefallshortscram,sub-338_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-338/notthefallshortscram/sub-338_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,19,M,test,15
+notthefallintact,sub-338,notthefallintact,sub-338_task-notthefallintact_bold,18,./fmri_pooled_features/sub-338/notthefallintact/sub-338_task-notthefallintact_bold,18,./text_feature/notthefallintact,19,M,test,15
+notthefallshortscram,sub-339,notthefallshortscram,sub-339_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-339/notthefallshortscram/sub-339_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,20,M,test,15
+notthefallintact,sub-339,notthefallintact,sub-339_task-notthefallintact_bold,18,./fmri_pooled_features/sub-339/notthefallintact/sub-339_task-notthefallintact_bold,18,./text_feature/notthefallintact,20,M,test,15
+notthefallintact,sub-340,notthefallintact,sub-340_task-notthefallintact_bold,18,./fmri_pooled_features/sub-340/notthefallintact/sub-340_task-notthefallintact_bold,18,./text_feature/notthefallintact,21,F,test,15
+notthefalllongscram,sub-340,notthefalllongscram,sub-340_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-340/notthefalllongscram/sub-340_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,21,F,test,15
+notthefallintact,sub-341,notthefallintact,sub-341_task-notthefallintact_bold,18,./fmri_pooled_features/sub-341/notthefallintact/sub-341_task-notthefallintact_bold,18,./text_feature/notthefallintact,21,M,test,15
+notthefalllongscram,sub-341,notthefalllongscram,sub-341_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-341/notthefalllongscram/sub-341_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,21,M,test,15
+notthefallshortscram,sub-342,notthefallshortscram,sub-342_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-342/notthefallshortscram/sub-342_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,23,M,test,15
+notthefallintact,sub-342,notthefallintact,sub-342_task-notthefallintact_bold,18,./fmri_pooled_features/sub-342/notthefallintact/sub-342_task-notthefallintact_bold,18,./text_feature/notthefallintact,23,M,test,15
+notthefallshortscram,sub-343,notthefallshortscram,sub-343_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-343/notthefallshortscram/sub-343_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,18,F,test,15
+notthefallintact,sub-343,notthefallintact,sub-343_task-notthefallintact_bold,18,./fmri_pooled_features/sub-343/notthefallintact/sub-343_task-notthefallintact_bold,18,./text_feature/notthefallintact,18,F,test,15
+notthefallintact,sub-344,notthefallintact,sub-344_task-notthefallintact_bold,18,./fmri_pooled_features/sub-344/notthefallintact/sub-344_task-notthefallintact_bold,18,./text_feature/notthefallintact,18,F,test,15
+notthefalllongscram,sub-344,notthefalllongscram,sub-344_task-notthefalllongscram_bold,18,./fmri_pooled_features/sub-344/notthefalllongscram/sub-344_task-notthefalllongscram_bold,18,./text_feature/notthefalllongscram,18,F,test,15
+notthefallshortscram,sub-345,notthefallshortscram,sub-345_task-notthefallshortscram_bold,18,./fmri_pooled_features/sub-345/notthefallshortscram/sub-345_task-notthefallshortscram_bold,18,./text_feature/notthefallshortscram,18,F,test,15
+notthefallintact,sub-345,notthefallintact,sub-345_task-notthefallintact_bold,18,./fmri_pooled_features/sub-345/notthefallintact/sub-345_task-notthefallintact_bold,18,./text_feature/notthefallintact,18,F,test,15

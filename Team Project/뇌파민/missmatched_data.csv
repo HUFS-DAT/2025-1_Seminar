@@ -1,0 +1,15 @@
+stim_files,subject_id,task,run_folder,frame_count,run_path,text_frame,text_path,age,sex,split,ground_truth
+"vinny,upintheair",sub-075,schema,sub-075_task-schema_run-3_bold,12,./fmri_pooled_features/sub-075/schema/sub-075_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",21,F,train,15
+"vinny,upintheair",sub-089,schema,sub-089_task-schema_run-1_bold,12,./fmri_pooled_features/sub-089/schema/sub-089_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",22,M,train,15
+"vinny,upintheair",sub-109,schema,sub-109_task-schema_run-3_bold,12,./fmri_pooled_features/sub-109/schema/sub-109_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",33,M,train,15
+"vinny,upintheair",sub-171,schema,sub-171_task-schema_run-1_bold,12,./fmri_pooled_features/sub-171/schema/sub-171_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",21,F,train,15
+"vinny,upintheair",sub-183,schema,sub-183_task-schema_run-3_bold,12,./fmri_pooled_features/sub-183/schema/sub-183_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",19,F,train,15
+"vinny,upintheair",sub-184,schema,sub-184_task-schema_run-2_bold,12,./fmri_pooled_features/sub-184/schema/sub-184_task-schema_run-2_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",25,F,train,15
+"vinny,upintheair",sub-186,schema,sub-186_task-schema_run-4_bold,12,./fmri_pooled_features/sub-186/schema/sub-186_task-schema_run-4_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",23,M,train,15
+"vinny,upintheair",sub-187,schema,sub-187_task-schema_run-1_bold,12,./fmri_pooled_features/sub-187/schema/sub-187_task-schema_run-1_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",22,M,train,15
+"vinny,upintheair",sub-193,schema,sub-193_task-schema_run-2_bold,12,./fmri_pooled_features/sub-193/schema/sub-193_task-schema_run-2_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",20,M,train,15
+"vinny,upintheair",sub-195,schema,sub-195_task-schema_run-2_bold,12,./fmri_pooled_features/sub-195/schema/sub-195_task-schema_run-2_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",25,F,train,15
+"vinny,upintheair",sub-196,schema,sub-196_task-schema_run-2_bold,12,./fmri_pooled_features/sub-196/schema/sub-196_task-schema_run-2_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",27,F,train,15
+"vinny,upintheair",sub-199,schema,sub-199_task-schema_run-3_bold,12,./fmri_pooled_features/sub-199/schema/sub-199_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",21,F,train,15
+"vinny,upintheair",sub-200,schema,sub-200_task-schema_run-3_bold,12,./fmri_pooled_features/sub-200/schema/sub-200_task-schema_run-3_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",26,F,train,15
+"vinny,upintheair",sub-203,schema,sub-203_task-schema_run-4_bold,12,./fmri_pooled_features/sub-203/schema/sub-203_task-schema_run-4_bold,"5,6","./text_feature/vinny, ./text_feature/upintheair",20,M,train,15
